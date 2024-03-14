@@ -1,0 +1,106 @@
+id: query3
+type: datasource
+subtype: S3Query
+resourceName: 58178db5-422b-439f-b066-8d0c8f0426cb
+resourceDisplayName: Lauren S3
+template:
+  ordered:
+    - queryRefreshTime: ''
+    - allowedGroupIds: []
+    - streamResponse: false
+    - lastReceivedFromResourceAt: null
+    - queryDisabledMessage: ''
+    - servedFromCache: false
+    - fileKey: ''
+    - offlineUserQueryInputs: ''
+    - successMessage: ''
+    - queryDisabled: ''
+    - playgroundQuerySaveId: latest
+    - workflowParams: null
+    - resourceNameOverride: ''
+    - runWhenModelUpdates: false
+    - workflowRunId: null
+    - showFailureToaster: true
+    - delimiter: ''
+    - query: ''
+    - playgroundQueryUuid: ''
+    - playgroundQueryId: null
+    - error: null
+    - tagSet: ''
+    - workflowRunBodyType: raw
+    - uploadFileName: export.csv
+    - privateParams: []
+    - workflowBlockUuid: null
+    - runWhenPageLoadsDelay: ''
+    - data: null
+    - uploadData: ''
+    - importedQueryInputs:
+        ordered: []
+    - isImported: false
+    - showSuccessToaster: true
+    - cacheKeyTtl: ''
+    - requestSentTimestamp: null
+    - metadata: null
+    - workflowActionType: null
+    - queryRunTime: null
+    - actionType: list
+    - copySource: ''
+    - changesetObject: ''
+    - errorTransformer: >-
+        // The variable 'data' allows you to reference the request's data in the
+        transformer. 
+
+        // example: return data.find(element => element.isError)
+
+        return data.error
+    - finished: null
+    - confirmationMessage: null
+    - isFetching: false
+    - prefix: ''
+    - changeset: ''
+    - rawData: null
+    - signedOperationOptions: ''
+    - queryTriggerDelay: '0'
+    - resourceTypeOverride: null
+    - watchedParams: []
+    - enableErrorTransformer: false
+    - showLatestVersionUpdatedWarning: false
+    - bucketName: ''
+    - timestamp: 0
+    - evalType: script
+    - importedQueryDefaults:
+        ordered: []
+    - signedOperationName: ''
+    - enableTransformer: false
+    - showUpdateSetValueDynamicallyToggle: true
+    - uploadFileType: csv
+    - maxKeys: ''
+    - useRawUploadFileType: false
+    - overrideOrgCacheForUserCache: false
+    - runWhenPageLoads: false
+    - transformer: |-
+        // Query results are available as the `data` variable
+        return data
+    - events: []
+    - queryTimeout: '120000'
+    - workflowId: null
+    - requireConfirmation: false
+    - queryFailureConditions: ''
+    - changesetIsObject: false
+    - enableCaching: false
+    - allowedGroups: []
+    - offlineQueryType: None
+    - queryThrottleTime: '750'
+    - updateSetValueDynamically: false
+    - notificationDuration: ''
+createdAt: 2024-03-14T19:37:51.310Z
+blockData:
+  top: -144
+  left: 880
+  uuid: f5453a2b-3b6e-4d2f-8b32-c57bbb70de46
+  pluginId: query3
+  blockType: default
+  editorType: S3Query
+  resourceName: 58178db5-422b-439f-b066-8d0c8f0426cb
+  incomingOnSuccessEdges:
+    - b44606d7-0e63-40b9-9dbd-4cb88e0c1941
