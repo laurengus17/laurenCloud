@@ -1,0 +1,22 @@
+<style>
+  
+.retool-container1 {
+    height: 40px;
+    background-color: #b2dfdb;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: .03em;
+    text-transform: uppercase;
+    color: #442e44;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 4px 4px 0 0;
+
+</style>
