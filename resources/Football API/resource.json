@@ -10,7 +10,7 @@
   "ssl": null,
   "editPrivilege": null,
   "options": {
-    "baseURL": "http://api.football-data.org/v4",
+    "baseURL": "http://api.football-data.org/v3",
     "headers": [["X-Auth-Token", "b9a1dec7b58a4247a9f7f8661d61c0b0"]],
     "urlparams": [["", ""]],
     "auth0_domain": "",
