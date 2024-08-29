@@ -1,0 +1,210 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "666708ac-1c2f-45e7-b8db-ebc2b3ce36e0",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "service": {
+          "array": []
+        },
+        "servicePro": {
+          "array": []
+        },
+        "serviceProd": {
+          "array": []
+        },
+        "serviceProvider": {
+          "array": []
+        },
+        "serviceProviderI": {
+          "array": []
+        },
+        "serviceProviderId": {
+          "array": []
+        },
+        "getSPBusinessInfo": {
+          "array": []
+        },
+        "getBusinessAddressGeolocation": {
+          "array": []
+        },
+        "getMailingAddressGeolocation": {
+          "array": []
+        },
+        "statesListTF": {
+          "array": []
+        },
+        "administrativeContactsListView": {
+          "array": []
+        },
+        "businessHoursTransformer": {
+          "array": []
+        },
+        "businessInfo": {
+          "array": []
+        },
+        "businessHoursTitle": {
+          "array": []
+        },
+        "businessAllDaysCheckbox": {
+          "array": []
+        },
+        "businessScheduleOptions": {
+          "array": []
+        },
+        "updateBusinessInformation": {
+          "array": []
+        },
+        "workAllDaysCheckbox": {
+          "array": []
+        },
+        "afterHoursTitle": {
+          "array": []
+        },
+        "defaultWorkHours": {
+          "array": []
+        },
+        "defaultAfterHours": {
+          "array": []
+        },
+        "_24HoursSchedule": {
+          "array": []
+        },
+        "businessNameInput": {
+          "array": []
+        },
+        "yearsInBusinessInput": {
+          "array": []
+        },
+        "businessStatusSelect": {
+          "array": []
+        },
+        "yearsInBusinessSelect": {
+          "array": []
+        },
+        "dbaInput": {
+          "array": []
+        },
+        "einInput": {
+          "array": []
+        },
+        "afterHoursContacts": {
+          "array": []
+        },
+        "jobExperienceList": {
+          "array": []
+        },
+        "businessStatuses": {
+          "array": []
+        },
+        "bizAddress1Input": {
+          "array": []
+        },
+        "bizAddress2Input": {
+          "array": []
+        },
+        "bizCityInput": {
+          "array": []
+        },
+        "bizStateInput": {
+          "array": []
+        },
+        "bizZipInput": {
+          "array": []
+        },
+        "mailingAddress1": {
+          "array": []
+        },
+        "mailingAddress2": {
+          "array": []
+        },
+        "mailingCityInput": {
+          "array": []
+        },
+        "mailingStateSelect": {
+          "array": []
+        },
+        "bizStateSelect": {
+          "array": []
+        },
+        "mailingZipInput": {
+          "array": []
+        },
+        "adminContactNameInput": {
+          "array": []
+        },
+        "adminContactLastnameInput": {
+          "array": []
+        },
+        "adminContactFirstnameInput": {
+          "array": []
+        },
+        "adminContactEmailInput": {
+          "array": []
+        },
+        "adminContactPhoneInput": {
+          "array": []
+        },
+        "adminContactTitleInput": {
+          "array": []
+        },
+        "afterHoursContactFirstnameInput": {
+          "array": []
+        },
+        "afterHoursContactLastnameInput": {
+          "array": []
+        },
+        "afterHoursContactEmailInput": {
+          "array": []
+        },
+        "afterHoursContactPhoneInput": {
+          "array": []
+        },
+        "afterHoursContactTitleInput": {
+          "array": []
+        },
+        "businessInfoPdf": {
+          "array": []
+        },
+        "businessStatusPdf": {
+          "array": []
+        },
+        "mailingAddress1Input": {
+          "array": []
+        },
+        "mailingAddress2Input": {
+          "array": []
+        },
+        "businessStatusProofImageContainer": {
+          "array": []
+        },
+        "businessStatusImage": {
+          "array": []
+        },
+        "businessStatusContainer": {
+          "array": []
+        },
+        "businessStatusModal": {
+          "array": []
+        },
+        "getGeolocationBusinessAddress": {
+          "array": []
+        },
+        "getGeolocationMailingAddress": {
+          "array": []
+        }
+      }
+    },
+    "notificationsSettings": {
+      "object": {
+        "globalQueryShowFailureToast": true,
+        "globalQueryShowSuccessToast": false,
+        "globalQueryToastDuration": 4.5
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.52.1",
+    "experimentalDataTabEnabled": true
+  }
+}

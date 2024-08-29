@@ -1,0 +1,308 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "a9a81dae-74be-45d6-bb55-0a5899301cef",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "mockDataExclusions": {
+          "array": []
+        },
+        "exclusionsMultiselect1": {
+          "array": []
+        },
+        "exclusion": {
+          "array": []
+        },
+        "exclusionMultiselect1": {
+          "array": []
+        },
+        "exclusionMultiselect2": {
+          "array": []
+        },
+        "getExclusions": {
+          "array": []
+        },
+        "se": {
+          "array": []
+        },
+        "ser": {
+          "array": []
+        },
+        "serv": {
+          "array": []
+        },
+        "servi": {
+          "array": []
+        },
+        "service": {
+          "array": []
+        },
+        "serviceP": {
+          "array": []
+        },
+        "servicePr": {
+          "array": []
+        },
+        "servicePro": {
+          "array": []
+        },
+        "serviceProv": {
+          "array": []
+        },
+        "serviceProvi": {
+          "array": []
+        },
+        "serviceProvide": {
+          "array": []
+        },
+        "serviceProvider": {
+          "array": []
+        },
+        "serviceProviderI": {
+          "array": []
+        },
+        "serviceProviderID": {
+          "array": []
+        },
+        "postExclusion": {
+          "array": []
+        },
+        "getSPExclusions": {
+          "array": []
+        },
+        "getEntitiesOptions": {
+          "array": []
+        },
+        "getBrandOptions": {
+          "array": []
+        },
+        "getClientOptions": {
+          "array": []
+        },
+        "getEntityOptions": {
+          "array": []
+        },
+        "getExclusionTypesOptions": {
+          "array": []
+        },
+        "getSiteOptions": {
+          "array": []
+        },
+        "getWorkOderTypesOptions": {
+          "array": []
+        },
+        "exclusionOptions": {
+          "array": []
+        },
+        "entityOptions": {
+          "array": []
+        },
+        "brandOptions": {
+          "array": []
+        },
+        "clientOptions": {
+          "array": []
+        },
+        "workOrderTypesOptions": {
+          "array": []
+        },
+        "getWorkOrderTypesOptions": {
+          "array": []
+        },
+        "constructOptions": {
+          "array": []
+        },
+        "constructSiteOptions": {
+          "array": []
+        },
+        "getStateOptions": {
+          "array": []
+        },
+        "getPriorityOptions": {
+          "array": []
+        },
+        "saveExclusionPayload": {
+          "array": []
+        },
+        "brandSiteSelect": {
+          "array": []
+        },
+        "exclusionsTableContent": {
+          "array": []
+        },
+        "entitiesContainer": {
+          "array": []
+        },
+        "entitiesHeader": {
+          "array": []
+        },
+        "entitiesTable": {
+          "array": []
+        },
+        "excludedByPlaceholder": {
+          "array": []
+        },
+        "clientsTable": {
+          "array": []
+        },
+        "clientsHeader": {
+          "array": []
+        },
+        "statesList": {
+          "array": []
+        },
+        "buildSiteTableData": {
+          "array": []
+        },
+        "siteTableContent": {
+          "array": []
+        },
+        "isSaveDisabled": {
+          "array": []
+        },
+        "deleteEntity": {
+          "array": []
+        },
+        "brandsTable": {
+          "array": []
+        },
+        "workOrdersTable": {
+          "array": []
+        },
+        "sitesTable": {
+          "array": []
+        },
+        "deleteClients": {
+          "array": []
+        },
+        "deleteClient": {
+          "array": []
+        },
+        "deleteBrand": {
+          "array": []
+        },
+        "deleteWorkOrder": {
+          "array": []
+        },
+        "deleteSite": {
+          "array": []
+        },
+        "serviceProviderId": {
+          "array": []
+        },
+        "sitesContainer": {
+          "array": []
+        },
+        "workOrdersContainer": {
+          "array": []
+        },
+        "brandsContainer": {
+          "array": []
+        },
+        "exclusionsMainContainer": {
+          "array": []
+        },
+        "clientsContainer": {
+          "array": []
+        },
+        "isContentEmpty": {
+          "array": []
+        },
+        "noExclusionsHeader": {
+          "array": []
+        },
+        "noExclusionsText": {
+          "array": []
+        },
+        "noExclusionsPlaceholder": {
+          "array": []
+        },
+        "statesOptions": {
+          "array": []
+        },
+        "statesOptionss": {
+          "array": []
+        },
+        "statesContainer": {
+          "array": []
+        },
+        "statesTable": {
+          "array": []
+        },
+        "statesHeader": {
+          "array": []
+        },
+        "optionsTransformer": {
+          "array": []
+        },
+        "addExclusionModal": {
+          "array": []
+        },
+        "addExclusionHeader": {
+          "array": []
+        },
+        "exclusionSelectDep": {
+          "array": []
+        },
+        "brandSiteSelectDep": {
+          "array": []
+        },
+        "exclusionMultiselect1Dep": {
+          "array": []
+        },
+        "exclusionMultiselect2Dep": {
+          "array": []
+        },
+        "exclusionCancelBtnDep": {
+          "array": []
+        },
+        "exclusionSaveBtnDep": {
+          "array": []
+        },
+        "exclusionSelect": {
+          "array": []
+        },
+        "addExclusionButton": {
+          "array": []
+        },
+        "prioritiesContainer": {
+          "array": []
+        },
+        "prioritiesHeader": {
+          "array": []
+        },
+        "prioritiesTable": {
+          "array": []
+        },
+        "deleteState": {
+          "array": []
+        },
+        "deletePriority": {
+          "array": []
+        },
+        "siteExclusionGroup": {
+          "array": []
+        },
+        "get": {
+          "array": []
+        },
+        "getS": {
+          "array": []
+        },
+        "getSummary": {
+          "array": []
+        },
+        "getSummaryTri": {
+          "array": []
+        },
+        "getSummaryTrigger": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.78.0",
+    "experimentalDataTabEnabled": true
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "519c35fc-8738-4809-85aa-9abf2b282456",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "getAdminDocuments": {
+          "array": []
+        },
+        "user": {
+          "array": []
+        },
+        "getRates": {
+          "array": []
+        },
+        "container970": {
+          "array": []
+        },
+        "vehicleBack": {
+          "array": []
+        },
+        "vehicleFront": {
+          "array": []
+        },
+        "vehicleLeft": {
+          "array": []
+        },
+        "vehicleRight": {
+          "array": []
+        },
+        "vehicleVIN": {
+          "array": []
+        },
+        "vehicleFrontTitle": {
+          "array": []
+        },
+        "vehicleBackTitle": {
+          "array": []
+        },
+        "vehicleLeftTitle": {
+          "array": []
+        },
+        "vehicleRightTitle": {
+          "array": []
+        },
+        "vehicleVINTitle": {
+          "array": []
+        },
+        "vehicleFrontContainer": {
+          "array": []
+        },
+        "vehicleBackContainer": {
+          "array": []
+        },
+        "vehicleLeftContainer": {
+          "array": []
+        },
+        "vehicleRightContainer": {
+          "array": []
+        },
+        "vehicleVINContainer": {
+          "array": []
+        },
+        "frontPhoto": {
+          "array": []
+        },
+        "backPhoto": {
+          "array": []
+        },
+        "leftPhoto": {
+          "array": []
+        },
+        "rightPhoto": {
+          "array": []
+        },
+        "vinPhoto": {
+          "array": []
+        },
+        "frontPhotoStatus": {
+          "array": []
+        },
+        "backPhotoStatus": {
+          "array": []
+        },
+        "leftPhotoStatus": {
+          "array": []
+        },
+        "rightPhotoStatus": {
+          "array": []
+        },
+        "vinPhotoStatus": {
+          "array": []
+        },
+        "typeLabel": {
+          "array": []
+        },
+        "vehicleType": {
+          "array": []
+        },
+        "vehicleListView": {
+          "array": []
+        },
+        "vehiclesCollapsibleContainer": {
+          "array": []
+        },
+        "SPColapsibleContainer": {
+          "array": []
+        },
+        "spCollapsibleContainer": {
+          "array": []
+        },
+        "ser": {
+          "array": []
+        },
+        "servic": {
+          "array": []
+        },
+        "service": {
+          "array": []
+        },
+        "serviceP": {
+          "array": []
+        },
+        "servicePro": {
+          "array": []
+        },
+        "serviceProvide": {
+          "array": []
+        },
+        "serviceProvider": {
+          "array": []
+        },
+        "serviceProviderI": {
+          "array": []
+        },
+        "serviceProviderID": {
+          "array": []
+        },
+        "getUniformEntities": {
+          "array": []
+        },
+        "getVehiclesAndUniforms": {
+          "array": []
+        },
+        "completeUser": {
+          "array": []
+        },
+        "uniformEntities": {
+          "array": []
+        },
+        "vehiclesAndUniforms": {
+          "array": []
+        },
+        "vehicleTitle": {
+          "array": []
+        },
+        "reviewModal": {
+          "array": []
+        },
+        "modalPhoto": {
+          "array": []
+        },
+        "postTags": {
+          "array": []
+        },
+        "getTagOptions": {
+          "array": []
+        },
+        "tagOptioins": {
+          "array": []
+        },
+        "tmpModalPhoto": {
+          "array": []
+        },
+        "tagOptions": {
+          "array": []
+        },
+        "photoBoundingBox": {
+          "array": []
+        },
+        "getEntities": {
+          "array": []
+        },
+        "getAddress": {
+          "array": []
+        },
+        "update": {
+          "array": []
+        },
+        "updateUniformInformation": {
+          "array": []
+        },
+        "uniformMultiselect": {
+          "array": []
+        },
+        "post": {
+          "array": []
+        },
+        "postUniform": {
+          "array": []
+        },
+        "postUniformI": {
+          "array": []
+        },
+        "postUniformInforma": {
+          "array": []
+        },
+        "postUniformInformation": {
+          "array": []
+        },
+        "uniform": {
+          "array": []
+        },
+        "uniformO": {
+          "array": []
+        },
+        "uniformOpt": {
+          "array": []
+        },
+        "uniformOptIn": {
+          "array": []
+        },
+        "uniformEntityIds": {
+          "array": []
+        },
+        "unf": {
+          "array": []
+        },
+        "unfr": {
+          "array": []
+        },
+        "unfo": {
+          "array": []
+        },
+        "unform": {
+          "array": []
+        },
+        "unformS": {
+          "array": []
+        },
+        "unformSiz": {
+          "array": []
+        },
+        "unformSize": {
+          "array": []
+        },
+        "saveUniformPreferencesButton": {
+          "array": []
+        },
+        "dispatchAddressTextArea": {
+          "array": []
+        },
+        "serviceProviderId": {
+          "array": []
+        },
+        "userId": {
+          "array": []
+        },
+        "getVehicleTags": {
+          "array": []
+        },
+        "getApplicantTags": {
+          "array": []
+        },
+        "vehicleTags": {
+          "array": []
+        },
+        "applicantTags": {
+          "array": []
+        },
+        "vehiclesToggle": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.54.0"
+  }
+}

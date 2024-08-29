@@ -1,0 +1,32 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "6f803b73-312a-44ed-aa57-7bc8cbc8f001",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "service": {
+          "array": []
+        },
+        "servicePro": {
+          "array": []
+        },
+        "serviceProd": {
+          "array": []
+        },
+        "serviceProvider": {
+          "array": []
+        },
+        "serviceProviderI": {
+          "array": []
+        },
+        "serviceProviderId": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.52.1",
+    "experimentalDataTabEnabled": true
+  }
+}

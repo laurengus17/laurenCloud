@@ -1,0 +1,830 @@
+{
+  "adminContactEmailInput": {
+    "container": "emergencyContactContainer",
+    "subcontainer": "c9d19",
+    "col": 6,
+    "height": 0.2
+  },
+  "adminContactFirstnameInput": {
+    "container": "emergencyContactContainer",
+    "subcontainer": "c9d19",
+    "height": 0.2
+  },
+  "adminContactLastnameInput": {
+    "container": "emergencyContactContainer",
+    "subcontainer": "c9d19",
+    "col": 3,
+    "height": 0.2
+  },
+  "adminContactPhoneInput": {
+    "container": "emergencyContactContainer",
+    "subcontainer": "c9d19",
+    "col": 9,
+    "height": 0.2
+  },
+  "adminContactTitleInput": {
+    "container": "emergencyContactContainer",
+    "subcontainer": "c9d19",
+    "row": 0.2,
+    "height": 0.2
+  },
+  "administrativeContactsListView": {
+    "container": "container108",
+    "subcontainer": "f8183",
+    "row": 0.6,
+    "height": 1,
+    "width": 12
+  },
+  "administrativeContactsListView2": {
+    "container": "container114",
+    "subcontainer": "1c9e4",
+    "height": 1,
+    "width": 12
+  },
+  "afterAllDaysCheckbox": {
+    "container": "afterHoursSchedule",
+    "subcontainer": "4f2eb",
+    "height": 0.6
+  },
+  "afterDaysAvailability": {
+    "container": "afterHoursSchedule",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "height": 7.6,
+    "width": 2
+  },
+  "afterEndTimes": {
+    "container": "afterHoursSchedule",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "col": 5,
+    "height": 7.6
+  },
+  "afterHoursContactEmailInput": {
+    "container": "emergencyContactContainer2",
+    "subcontainer": "c9d19",
+    "col": 6,
+    "height": 0.2
+  },
+  "afterHoursContactFirstnameInput": {
+    "container": "emergencyContactContainer2",
+    "subcontainer": "c9d19",
+    "height": 0.2
+  },
+  "afterHoursContactLastnameInput": {
+    "container": "emergencyContactContainer2",
+    "subcontainer": "c9d19",
+    "col": 3,
+    "height": 0.2
+  },
+  "afterHoursContactPhoneInput": {
+    "container": "emergencyContactContainer2",
+    "subcontainer": "c9d19",
+    "col": 9,
+    "height": 0.2
+  },
+  "afterHoursContactTitleInput": {
+    "container": "emergencyContactContainer2",
+    "subcontainer": "c9d19",
+    "row": 0.2,
+    "height": 0.2
+  },
+  "afterHoursContacts": {
+    "container": "container113",
+    "subcontainer": "f8183",
+    "height": 0.6,
+    "width": 12
+  },
+  "afterHoursSchedule": {
+    "container": "availabilitySchedules",
+    "subcontainer": "4f2eb",
+    "row": 1.6,
+    "height": 10.8,
+    "width": 12
+  },
+  "afterHoursTitle": {
+    "container": "afterHoursSchedule",
+    "rowGroup": "header",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "afterStartTimes": {
+    "container": "afterHoursSchedule",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "col": 2,
+    "height": 7.6
+  },
+  "availabilitySchedules": {
+    "container": "container108",
+    "subcontainer": "f8183",
+    "row": 1.6,
+    "height": 3.8,
+    "width": 12
+  },
+  "available24HoursCheckbox": {
+    "container": "businessScheduleOptions",
+    "subcontainer": "4f2eb",
+    "col": 6,
+    "height": 0.6,
+    "width": 6
+  },
+  "availableAfterHoursSwitch": {
+    "container": "availabilitySchedules",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "height": 0.6
+  },
+  "bizAddress1Input": {
+    "container": "container105",
+    "subcontainer": "f8183",
+    "row": 1,
+    "height": 0.2,
+    "width": 6
+  },
+  "bizAddress2Input": {
+    "container": "container105",
+    "subcontainer": "f8183",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 6
+  },
+  "bizCityInput": {
+    "container": "container105",
+    "subcontainer": "f8183",
+    "row": 1.4,
+    "height": 0.2
+  },
+  "bizStateSelect": {
+    "container": "container105",
+    "subcontainer": "f8183",
+    "row": 1.4,
+    "col": 3,
+    "height": 0.2
+  },
+  "bizZipInput": {
+    "container": "container105",
+    "subcontainer": "f8183",
+    "row": 1.6,
+    "height": 0.2
+  },
+  "businessHoursTitle": {
+    "container": "workHoursSchedule",
+    "rowGroup": "header",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "businessNameInput": {
+    "container": "container104",
+    "subcontainer": "f8183",
+    "row": 1,
+    "col": 3,
+    "height": 0.2
+  },
+  "businessScheduleOptions": {
+    "container": "workHoursSchedule",
+    "subcontainer": "4f2eb",
+    "height": 1,
+    "width": 6
+  },
+  "businessStatusContainer": {
+    "container": "container104",
+    "subcontainer": "f8183",
+    "row": 5.8,
+    "height": 4.8
+  },
+  "businessStatusImage": {
+    "container": "businessStatusContainer",
+    "subcontainer": "2ebf4",
+    "height": 3,
+    "width": 10
+  },
+  "businessStatusPdf": {
+    "container": "container104",
+    "subcontainer": "f8183",
+    "row": 1,
+    "height": 4.8
+  },
+  "businessStatusSelect": {
+    "container": "container104",
+    "subcontainer": "f8183",
+    "row": 1,
+    "col": 9,
+    "height": 0.2
+  },
+  "container104": {
+    "container": "container99",
+    "subcontainer": "6c417",
+    "height": 0.2,
+    "width": 12
+  },
+  "container105": {
+    "container": "container99",
+    "subcontainer": "6c417",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "container106": {
+    "container": "container99",
+    "subcontainer": "6c417",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "container107": {
+    "container": "container106",
+    "subcontainer": "f8183",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "container108": {
+    "container": "container99",
+    "subcontainer": "6c417",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "container113": {
+    "container": "container99",
+    "subcontainer": "6c417",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "container114": {
+    "container": "container113",
+    "subcontainer": "f8183",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "container99": {
+    "container": "moduleContainer",
+    "row": 0.2,
+    "height": 1,
+    "width": 12
+  },
+  "containerTitle146": {
+    "container": "container99",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle153": {
+    "container": "container104",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle154": {
+    "container": "container105",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle155": {
+    "container": "container106",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle156": {
+    "container": "container107",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle157": {
+    "container": "container108",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle158": {
+    "container": "emergencyContactContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle164": {
+    "container": "emergencyContactContainer2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle165": {
+    "container": "container114",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle166": {
+    "container": "container113",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle167": {
+    "container": "businessStatusContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "dbaInput": {
+    "container": "container104",
+    "subcontainer": "f8183",
+    "row": 1.2,
+    "col": 3,
+    "height": 0.2
+  },
+  "einInput": {
+    "container": "container104",
+    "subcontainer": "f8183",
+    "row": 1.2,
+    "col": 6,
+    "height": 0.2
+  },
+  "emergencyContactContainer": {
+    "container": "administrativeContactsListView",
+    "height": 3.2,
+    "width": 12
+  },
+  "emergencyContactContainer2": {
+    "container": "administrativeContactsListView2",
+    "height": 1,
+    "width": 12
+  },
+  "fridayAfterAvailableCheckbox": {
+    "container": "afterDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 4.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "fridayAfterEndInput": {
+    "container": "afterEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "fridayAfterStartInput": {
+    "container": "afterStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "fridayWorkAvailableCheckbox": {
+    "container": "workDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 4.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "fridayWorkEndInput": {
+    "container": "workEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "fridayWorkStartInput": {
+    "container": "workStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "image1": {
+    "subcontainer": "businessStatusModal",
+    "height": 3,
+    "width": 12
+  },
+  "mailingAddress1Input": {
+    "container": "container107",
+    "subcontainer": "a7ca7",
+    "height": 0.2,
+    "width": 6
+  },
+  "mailingAddress2Input": {
+    "container": "container107",
+    "subcontainer": "a7ca7",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 6
+  },
+  "mailingCityInput": {
+    "container": "container107",
+    "subcontainer": "a7ca7",
+    "row": 0.4,
+    "height": 0.2
+  },
+  "mailingStateSelect": {
+    "container": "container107",
+    "subcontainer": "a7ca7",
+    "row": 0.4,
+    "col": 3,
+    "height": 0.2
+  },
+  "mailingZipInput": {
+    "container": "container107",
+    "subcontainer": "a7ca7",
+    "row": 0.6,
+    "height": 0.2
+  },
+  "mapboxMap4": {
+    "container": "container105",
+    "subcontainer": "f8183",
+    "row": 1,
+    "col": 6,
+    "height": 6.4,
+    "width": 6
+  },
+  "mapboxMap5": {
+    "container": "container107",
+    "subcontainer": "a7ca7",
+    "col": 6,
+    "height": 5.8,
+    "width": 6
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "businessStatusModal",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "businessStatusModal",
+    "height": 0.6,
+    "width": 9
+  },
+  "moduleContainer": {
+    "height": 50,
+    "width": 12
+  },
+  "mondayAfterAvailableCheckbox": {
+    "container": "afterDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 0.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "mondayAfterEndInput": {
+    "container": "afterEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "mondayAfterStartInput": {
+    "container": "afterStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "mondayWorkAvailableCheckbox": {
+    "container": "workDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 0.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "mondayWorkEndInput": {
+    "container": "workEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "mondayWorkStartInput": {
+    "container": "workStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "saturdayAfterAvailableCheckbox": {
+    "container": "afterDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 5.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "saturdayAfterEndInput": {
+    "container": "afterEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "saturdayAfterStartInput": {
+    "container": "afterStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "saturdayWorkAvailableCheckbox": {
+    "container": "workDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 5.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "saturdayWorkEndInput": {
+    "container": "workEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "saturdayWorkStartInput": {
+    "container": "workStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "status23": {
+    "container": "container106",
+    "subcontainer": "f8183",
+    "row": 1,
+    "height": 0.6,
+    "width": 6
+  },
+  "sundayAfterAvailableCheckbox": {
+    "container": "afterDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 6.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "sundayAfterEndInput": {
+    "container": "afterEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "sundayAfterStartInput": {
+    "container": "afterStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "sundayWorkAvailableCheckbox": {
+    "container": "workDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 6.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "sundayWorkEndInput": {
+    "container": "workEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "sundayWorkStartInput": {
+    "container": "workHoursSchedule",
+    "subcontainer": "4f2eb",
+    "row": 2,
+    "col": 2,
+    "height": 0.2
+  },
+  "text113": {
+    "container": "container104",
+    "subcontainer": "f8183",
+    "height": 0.6,
+    "width": 12
+  },
+  "text114": {
+    "container": "container105",
+    "subcontainer": "f8183",
+    "height": 0.6,
+    "width": 12
+  },
+  "text115": {
+    "container": "container106",
+    "subcontainer": "f8183",
+    "height": 0.6,
+    "width": 12
+  },
+  "text116": {
+    "container": "container108",
+    "subcontainer": "f8183",
+    "height": 0.6,
+    "width": 12
+  },
+  "thursdayAfterAvailableCheckbox": {
+    "container": "afterDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 3.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "thursdayAfterEndInput": {
+    "container": "afterEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "thursdayAfterStartInput": {
+    "container": "afterStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "thursdayWorkAvailableCheckbox": {
+    "container": "workDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 3.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "thursdayWorkEndInput": {
+    "container": "workEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "thursdayWorkStartInput": {
+    "container": "workStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "tuesdayAfterAvailableCheckbox": {
+    "container": "afterDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 1.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "tuesdayAfterEndInput": {
+    "container": "afterEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "tuesdayAfterStartInput": {
+    "container": "afterStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "tuesdayWorkAvailableCheckbox": {
+    "container": "workDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 1.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "tuesdayWorkEndInput": {
+    "container": "workEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "tuesdayWorkStartInput": {
+    "container": "workStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "wednesdayAfterAvailableCheckbox": {
+    "container": "afterDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 2.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "wednesdayAfterEndInput": {
+    "container": "afterEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "wednesdayAfterStartInput": {
+    "container": "afterStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "wednesdayWorkAvailableCheckbox": {
+    "container": "workDaysAvailability",
+    "subcontainer": "4f2eb",
+    "row": 2.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "wednesdayWorkEndInput": {
+    "container": "workEndTimes",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "wednesdayWorkStartInput": {
+    "container": "workStartTimes",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "workAllDaysCheckbox": {
+    "container": "businessScheduleOptions",
+    "subcontainer": "4f2eb",
+    "height": 0.6,
+    "width": 6
+  },
+  "workDayTitle": {
+    "container": "workDaysAvailability",
+    "subcontainer": "4f2eb",
+    "height": 0.6,
+    "width": 12
+  },
+  "workDayTitle2": {
+    "container": "afterDaysAvailability",
+    "subcontainer": "4f2eb",
+    "height": 0.6,
+    "width": 12
+  },
+  "workDaysAvailability": {
+    "container": "workHoursSchedule",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "height": 7.6,
+    "width": 2
+  },
+  "workEndTimeTitle": {
+    "container": "workEndTimes",
+    "subcontainer": "4f2eb",
+    "height": 0.6,
+    "width": 12
+  },
+  "workEndTimeTitle2": {
+    "container": "afterEndTimes",
+    "subcontainer": "4f2eb",
+    "height": 0.6,
+    "width": 12
+  },
+  "workEndTimes": {
+    "container": "workHoursSchedule",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "col": 5,
+    "height": 1
+  },
+  "workHoursSchedule": {
+    "container": "availabilitySchedules",
+    "subcontainer": "4f2eb",
+    "height": 1,
+    "width": 12
+  },
+  "workStartTimeTitle": {
+    "container": "workStartTimes",
+    "subcontainer": "4f2eb",
+    "height": 0.6,
+    "width": 12
+  },
+  "workStartTimeTitle2": {
+    "container": "afterStartTimes",
+    "subcontainer": "4f2eb",
+    "height": 0.6,
+    "width": 12
+  },
+  "workStartTimes": {
+    "container": "workHoursSchedule",
+    "subcontainer": "4f2eb",
+    "row": 1,
+    "col": 2,
+    "height": 1
+  },
+  "yearsInBusinessSelect": {
+    "container": "container104",
+    "subcontainer": "f8183",
+    "row": 1,
+    "col": 6,
+    "height": 0.2
+  }
+}

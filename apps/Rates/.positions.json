@@ -1,0 +1,678 @@
+{
+  "addFlatRateContainer": {
+    "subcontainer": "newRateLogic",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "addHourlyContainer": {
+    "subcontainer": "newRateLogic",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "addNewRateLogicSelect": {
+    "subcontainer": "newRateLogic",
+    "height": 0.2,
+    "width": 5
+  },
+  "addPartnershipContainer": {
+    "subcontainer": "newRateLogic",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "addRateLogicFlatRateCentsInput": {
+    "container": "addFlatRateContainer",
+    "subcontainer": "f89bc",
+    "height": 0.2,
+    "width": 6
+  },
+  "addRateLogicFlatRateNotesInput": {
+    "container": "addFlatRateContainer",
+    "subcontainer": "f89bc",
+    "row": 0.2,
+    "col": 6,
+    "height": 0.6,
+    "width": 6
+  },
+  "addRateLogicHourlyInput": {
+    "container": "addHourlyContainer",
+    "subcontainer": "a6d2d",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 4
+  },
+  "addRateLogicPartnershipPercentInput": {
+    "container": "addPartnershipContainer",
+    "subcontainer": "a6d2d",
+    "height": 0.2,
+    "width": 4
+  },
+  "addRateLogicRatesTable": {
+    "subcontainer": "newRateLogic",
+    "row": 0.8,
+    "height": 1,
+    "width": 12
+  },
+  "addRateLogicTripInput": {
+    "container": "addHourlyContainer",
+    "subcontainer": "a6d2d",
+    "row": 0.2,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "afterHoursSwitch": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 0.4,
+    "col": 7,
+    "height": 0.6,
+    "width": 4
+  },
+  "afterHoursSwitch2": {
+    "subcontainer": "editOriginalRates",
+    "col": 9,
+    "height": 0.6
+  },
+  "afterHoursSwitch4": {
+    "subcontainer": "editEditedRates",
+    "col": 8,
+    "height": 0.6
+  },
+  "button10": {
+    "container": "collapsibleContainer10",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "button11": {
+    "rowGroup": "footer",
+    "subcontainer": "bulkEditRates",
+    "height": 1,
+    "width": 4
+  },
+  "button12": {
+    "rowGroup": "footer",
+    "subcontainer": "bulkEditRates",
+    "col": 7,
+    "height": 1,
+    "width": 5
+  },
+  "button13": {
+    "rowGroup": "footer",
+    "subcontainer": "newRateLogic",
+    "height": 1
+  },
+  "button14": {
+    "rowGroup": "footer",
+    "subcontainer": "newRateLogic",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "button15": {
+    "rowGroup": "footer",
+    "subcontainer": "editOriginalRates",
+    "height": 1,
+    "width": 4
+  },
+  "button16": {
+    "rowGroup": "footer",
+    "subcontainer": "editOriginalRates",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "button17": {
+    "rowGroup": "footer",
+    "subcontainer": "editPartnershipRates",
+    "height": 1
+  },
+  "button18": {
+    "rowGroup": "footer",
+    "subcontainer": "editPartnershipRates",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "button19": {
+    "rowGroup": "footer",
+    "subcontainer": "editFlatRates",
+    "height": 1,
+    "width": 4
+  },
+  "button20": {
+    "rowGroup": "footer",
+    "subcontainer": "editFlatRates",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "button21": {
+    "rowGroup": "footer",
+    "subcontainer": "editEditedRates",
+    "height": 1,
+    "width": 4
+  },
+  "button22": {
+    "rowGroup": "footer",
+    "subcontainer": "editEditedRates",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "button5": {
+    "container": "container87",
+    "rowGroup": "header",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "button7": {
+    "container": "collapsibleContainer11",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "button8": {
+    "container": "collapsibleContainer12",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "button9": {
+    "container": "collapsibleContainer13",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "collapsibleContainer10": {
+    "container": "container87",
+    "subcontainer": "11500",
+    "row": 4,
+    "height": 0.2,
+    "width": 12
+  },
+  "collapsibleContainer11": {
+    "container": "container87",
+    "subcontainer": "11500",
+    "row": 3.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "collapsibleContainer12": {
+    "container": "container87",
+    "subcontainer": "11500",
+    "row": 3.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "collapsibleContainer13": {
+    "container": "container87",
+    "subcontainer": "11500",
+    "row": 3.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "collapsibleTitle15": {
+    "container": "collapsibleContainer10",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 7
+  },
+  "collapsibleTitle16": {
+    "container": "collapsibleContainer11",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 6
+  },
+  "collapsibleTitle17": {
+    "container": "collapsibleContainer12",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 7
+  },
+  "collapsibleTitle18": {
+    "container": "collapsibleContainer13",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 7
+  },
+  "container1": {
+    "container": "moduleContainer",
+    "height": 3.8,
+    "width": 12
+  },
+  "container87": {
+    "container": "container1",
+    "subcontainer": "0abf3",
+    "height": 0.2,
+    "width": 12
+  },
+  "container88": {
+    "container": "container87",
+    "subcontainer": "11500",
+    "row": 4.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "container90": {
+    "subcontainer": "bulkEditRates",
+    "height": 0.2,
+    "width": 12
+  },
+  "containerTitle1": {
+    "container": "container1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle133": {
+    "container": "container88",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle134": {
+    "container": "container87",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 9
+  },
+  "containerTitle136": {
+    "container": "container90",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle137": {
+    "container": "addFlatRateContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle138": {
+    "container": "addPartnershipContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle139": {
+    "container": "addHourlyContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "currency1": {
+    "container": "container87",
+    "subcontainer": "11500",
+    "height": 0.2
+  },
+  "currency2": {
+    "container": "container87",
+    "subcontainer": "11500",
+    "col": 3,
+    "height": 0.2
+  },
+  "currency3": {
+    "subcontainer": "editEditedRates",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 6
+  },
+  "currency4": {
+    "subcontainer": "editEditedRates",
+    "row": 0.8,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "editFlatRateInput": {
+    "subcontainer": "editFlatRates",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 6
+  },
+  "editFlatRateNoteInput": {
+    "subcontainer": "editFlatRates",
+    "row": 0.4,
+    "col": 6,
+    "height": 0.6,
+    "width": 6
+  },
+  "editHourlyRateAfterHours": {
+    "subcontainer": "editOriginalRates",
+    "row": 1,
+    "height": 0.2,
+    "width": 6
+  },
+  "editRateEditedHourlyInput": {
+    "subcontainer": "editEditedRates",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 6
+  },
+  "editRateEditedTripFeeInput": {
+    "subcontainer": "editEditedRates",
+    "row": 0.6,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "editRateHourlyInput": {
+    "subcontainer": "editOriginalRates",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 6
+  },
+  "editRatePercentageInput": {
+    "subcontainer": "editPartnershipRates",
+    "height": 0.2,
+    "width": 7
+  },
+  "editRateTripInput": {
+    "subcontainer": "editOriginalRates",
+    "row": 0.8,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "editTripFeeAfterHours": {
+    "subcontainer": "editOriginalRates",
+    "row": 1,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "flatRateModal": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 6
+  },
+  "hourlyModal": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 5
+  },
+  "hourlyRateAfterHours": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 5
+  },
+  "hourlyRateModal": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 5
+  },
+  "hourlyTripRatesModalTable": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 4.2,
+    "height": 1,
+    "width": 12
+  },
+  "hourlyTripRatesTable": {
+    "container": "collapsibleContainer10",
+    "subcontainer": "b409e",
+    "height": 1,
+    "width": 12
+  },
+  "interestedInPartnershipRadioGroup": {
+    "container": "container88",
+    "subcontainer": "11500",
+    "col": 9,
+    "height": 2.4
+  },
+  "locationTypesCheckboxGroup": {
+    "container": "container88",
+    "subcontainer": "11500",
+    "col": 3,
+    "height": 2.4
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "newRateLogic",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton2": {
+    "rowGroup": "header",
+    "subcontainer": "bulkEditRates",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton3": {
+    "rowGroup": "header",
+    "subcontainer": "editOriginalRates",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton4": {
+    "rowGroup": "header",
+    "subcontainer": "editPartnershipRates",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton5": {
+    "rowGroup": "header",
+    "subcontainer": "editFlatRates",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton6": {
+    "rowGroup": "header",
+    "subcontainer": "editEditedRates",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "newRateLogic",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "bulkEditRates",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle3": {
+    "rowGroup": "header",
+    "subcontainer": "editOriginalRates",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle4": {
+    "rowGroup": "header",
+    "subcontainer": "editPartnershipRates",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle5": {
+    "rowGroup": "header",
+    "subcontainer": "editFlatRates",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle6": {
+    "rowGroup": "header",
+    "subcontainer": "editEditedRates",
+    "height": 0.6,
+    "width": 9
+  },
+  "moduleContainer": {
+    "height": 12,
+    "width": 12
+  },
+  "noteModal": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 2.8,
+    "col": 7,
+    "height": 0.2,
+    "width": 5
+  },
+  "partnershipsModalTable": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 3.2,
+    "height": 1,
+    "width": 12
+  },
+  "partnershipsTable": {
+    "container": "collapsibleContainer12",
+    "subcontainer": "b409e",
+    "height": 1,
+    "width": 12
+  },
+  "perJobFlatRatesModalTable": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 5.2,
+    "height": 1,
+    "width": 12
+  },
+  "perJobFlatRatesTable": {
+    "container": "collapsibleContainer13",
+    "subcontainer": "b409e",
+    "height": 1,
+    "width": 12
+  },
+  "percentageModal": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 2,
+    "height": 0.2,
+    "width": 4
+  },
+  "projectionTypeSelect": {
+    "container": "container87",
+    "subcontainer": "11500",
+    "row": 0.4,
+    "col": 9,
+    "height": 0.2
+  },
+  "restrictionsCheckboxGroup": {
+    "container": "container88",
+    "subcontainer": "11500",
+    "col": 6,
+    "height": 2.4
+  },
+  "table15": {
+    "container": "hourlyTripRatesTable",
+    "height": 1,
+    "width": 12
+  },
+  "table19": {
+    "container": "partnershipsTable",
+    "height": 1,
+    "width": 12
+  },
+  "table21": {
+    "container": "perJobFlatRatesTable",
+    "height": 1,
+    "width": 12
+  },
+  "table22": {
+    "container": "container87",
+    "subcontainer": "11500",
+    "row": 2.2,
+    "col": 3,
+    "height": 1,
+    "width": 9
+  },
+  "table24": {
+    "container": "partnershipsModalTable",
+    "height": 1,
+    "width": 12
+  },
+  "table25": {
+    "container": "perJobFlatRatesModalTable",
+    "height": 1,
+    "width": 12
+  },
+  "table26": {
+    "container": "hourlyTripRatesModalTable",
+    "height": 1,
+    "width": 12
+  },
+  "textInput1": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "height": 0.2,
+    "width": 4
+  },
+  "tripFeeAfterHours": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 3,
+    "col": 7,
+    "height": 0.2,
+    "width": 5
+  },
+  "tripFeeModal": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 1.8,
+    "col": 7,
+    "height": 0.2,
+    "width": 5
+  },
+  "tripModal": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 2,
+    "col": 7,
+    "height": 0.2,
+    "width": 5
+  },
+  "uneditedRatesModalTable": {
+    "container": "container90",
+    "subcontainer": "f7962",
+    "row": 6.2,
+    "height": 1,
+    "width": 12
+  },
+  "uneditedRatesModalTable2": {
+    "container": "uneditedRatesModalTable",
+    "height": 1,
+    "width": 12
+  },
+  "uneditedRatesTable": {
+    "container": "collapsibleContainer11",
+    "subcontainer": "b409e",
+    "row": 0.2,
+    "height": 1,
+    "width": 12
+  },
+  "uneditedRatesTable2": {
+    "container": "uneditedRatesTable",
+    "height": 1,
+    "width": 12
+  },
+  "uneditedRatesTable4": {
+    "container": "addRateLogicRatesTable",
+    "height": 1,
+    "width": 12
+  },
+  "workOrderTypesCheckboxGroup": {
+    "container": "container88",
+    "subcontainer": "11500",
+    "height": 2.4
+  }
+}

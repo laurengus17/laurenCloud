@@ -1,0 +1,299 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "01a8861d-4e52-4db7-a4b1-3ebd4f969ce7",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "statesList": {
+          "array": []
+        },
+        "vehicleContainer": {
+          "array": []
+        },
+        "vehicleTitle": {
+          "array": []
+        },
+        "vehiclesList": {
+          "array": []
+        },
+        "vehicleContainerTest": {
+          "array": []
+        },
+        "vehicleGrid": {
+          "array": []
+        },
+        "vehicleFront": {
+          "array": []
+        },
+        "vehicleBack": {
+          "array": []
+        },
+        "vehicleLeft": {
+          "array": []
+        },
+        "vehicleRight": {
+          "array": []
+        },
+        "vehicleVIN": {
+          "array": []
+        },
+        "vehicleFrontImg": {
+          "array": []
+        },
+        "vehicleBackImg": {
+          "array": []
+        },
+        "vehicleLeftImg": {
+          "array": []
+        },
+        "vehicleRightImg": {
+          "array": []
+        },
+        "vehicleVinImg": {
+          "array": []
+        },
+        "updateValidationStatus": {
+          "array": []
+        },
+        "fileToUpdate": {
+          "array": []
+        },
+        "certificationTypes": {
+          "array": []
+        },
+        "applicantPhotosPendingValidations": {
+          "array": []
+        },
+        "countPendingValidations": {
+          "array": []
+        },
+        "validationsCounter": {
+          "array": []
+        },
+        "updateDocComplianceStatus": {
+          "array": []
+        },
+        "modalInfo": {
+          "array": []
+        },
+        "resubmissionModalInfo": {
+          "array": []
+        },
+        "resubmissionModal": {
+          "array": []
+        },
+        "displayModal": {
+          "array": []
+        },
+        "displayModalInfo": {
+          "array": []
+        },
+        "docReviewModal": {
+          "array": []
+        },
+        "approvePhotoButton": {
+          "array": []
+        },
+        "rejecOptionsButton": {
+          "array": []
+        },
+        "reasonsForResubmission": {
+          "array": []
+        },
+        "rejectOptionsButton": {
+          "array": []
+        },
+        "resubmissionOptionsCheckbox": {
+          "array": []
+        },
+        "resubmissionOptionsCheckboxGroup": {
+          "array": []
+        },
+        "otherResubmissionReasonInput": {
+          "array": []
+        },
+        "resubmissionModalButtonGroup": {
+          "array": []
+        },
+        "tradeLicensePdf": {
+          "array": []
+        },
+        "tradeCertificatePdf": {
+          "array": []
+        },
+        "photoDisplay": {
+          "array": []
+        },
+        "pdfDisplay": {
+          "array": []
+        },
+        "getTagsOptions": {
+          "array": []
+        },
+        "tagOptions": {
+          "array": []
+        },
+        "photoBoundingBox": {
+          "array": []
+        },
+        "getResubmissionReasons": {
+          "array": []
+        },
+        "updateFileTags": {
+          "array": []
+        },
+        "pdfTagsMultiselect": {
+          "array": []
+        },
+        "currentTags": {
+          "array": []
+        },
+        "currentTags1": {
+          "array": []
+        },
+        "taaagggs": {
+          "array": []
+        },
+        "updatePdfTags": {
+          "array": []
+        },
+        "updateTags": {
+          "array": []
+        },
+        "UpdateSpDetailsTrigger": {
+          "array": []
+        },
+        "updateSpDetailsTrigger": {
+          "array": []
+        },
+        "sp": {
+          "array": []
+        },
+        "spDe": {
+          "array": []
+        },
+        "spDetails": {
+          "array": []
+        },
+        "uspDetails": {
+          "array": []
+        },
+        "getspDetails": {
+          "array": []
+        },
+        "getpDetails": {
+          "array": []
+        },
+        "getSpDetails": {
+          "array": []
+        },
+        "getSpDetailsT": {
+          "array": []
+        },
+        "getSpDetailsTrigger": {
+          "array": []
+        },
+        "extraContainer": {
+          "array": []
+        },
+        "getApplicantInfo": {
+          "array": []
+        },
+        "profileStatus": {
+          "array": []
+        },
+        "inp": {
+          "array": []
+        },
+        "profile": {
+          "array": []
+        },
+        "profileS": {
+          "array": []
+        },
+        "profileStatu": {
+          "array": []
+        },
+        "licensePDFcontainer": {
+          "array": []
+        },
+        "licenseTitle": {
+          "array": []
+        },
+        "tradeLicenseImage": {
+          "array": []
+        },
+        "docImage": {
+          "array": []
+        },
+        "tradeCertificationImage": {
+          "array": []
+        },
+        "coiFileContainer": {
+          "array": []
+        },
+        "coiF": {
+          "array": []
+        },
+        "coiImage": {
+          "array": []
+        },
+        "btnOpenModal": {
+          "array": []
+        },
+        "btnOpenModalVehicleVIN": {
+          "array": []
+        },
+        "btnOpenModalVehicleFront": {
+          "array": []
+        },
+        "btnOpenModalVehicleBack": {
+          "array": []
+        },
+        "btnOpenModalVehicleLeft": {
+          "array": []
+        },
+        "btnOpenModalVehicleRight": {
+          "array": []
+        },
+        "btnOpenModalCOI": {
+          "array": []
+        },
+        "btnOpenModalCertification": {
+          "array": []
+        },
+        "btnOpenModalLicense": {
+          "array": []
+        },
+        "btnOpenModalWaistUp": {
+          "array": []
+        },
+        "btnOpenModalHeadshot": {
+          "array": []
+        },
+        "getVehicleTags": {
+          "array": []
+        },
+        "getApplicantTags": {
+          "array": []
+        },
+        "vehicleTags": {
+          "array": []
+        },
+        "applicantTags": {
+          "array": []
+        }
+      }
+    },
+    "notificationsSettings": {
+      "object": {
+        "globalQueryShowFailureToast": true,
+        "globalQueryShowSuccessToast": false,
+        "globalQueryToastDuration": 4.5
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.54.0"
+  }
+}

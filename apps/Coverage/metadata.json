@@ -1,0 +1,107 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "ab7a4805-e1c8-4b27-9f4b-57953e2bfe2b",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "user": {
+          "array": []
+        },
+        "alignmentCoverage": {
+          "array": []
+        },
+        "coverageProjections": {
+          "array": []
+        },
+        "alignmentCoveragePut": {
+          "array": []
+        },
+        "hours": {
+          "array": []
+        },
+        "minutes": {
+          "array": []
+        },
+        "ser": {
+          "array": []
+        },
+        "service": {
+          "array": []
+        },
+        "servicePri": {
+          "array": []
+        },
+        "servicePr": {
+          "array": []
+        },
+        "servicePro": {
+          "array": []
+        },
+        "serviceProvider": {
+          "array": []
+        },
+        "serviceProviderI": {
+          "array": []
+        },
+        "serviceProviderId": {
+          "array": []
+        },
+        "serviceProviderID": {
+          "array": []
+        },
+        "hoursInput": {
+          "array": []
+        },
+        "minutesInput": {
+          "array": []
+        },
+        "minutesOptions": {
+          "array": []
+        },
+        "is": {
+          "array": []
+        },
+        "isUnsaved": {
+          "array": []
+        },
+        "isNotSaved": {
+          "array": []
+        },
+        "saveTravelTimeButton": {
+          "array": []
+        },
+        "isN": {
+          "array": []
+        },
+        "isNot": {
+          "array": []
+        },
+        "isNotS": {
+          "array": []
+        },
+        "isNotSave": {
+          "array": []
+        },
+        "isNotSavedd": {
+          "array": []
+        },
+        "getUserProfile": {
+          "array": []
+        },
+        "getUser": {
+          "array": []
+        },
+        "businessAddressStatus": {
+          "array": []
+        },
+        "maxTimeHandler": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.52.1",
+    "experimentalDataTabEnabled": true
+  }
+}

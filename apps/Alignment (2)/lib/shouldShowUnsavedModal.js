@@ -1,0 +1,1 @@
+return ({{steps1.selectedItem.value}} === 'coverage' && {{ coverageModule.isNotSaved }})

@@ -1,0 +1,154 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "696ffbc6-5e52-4048-8f2c-5a890e839170",
+  "appTemplate": {
+    "appThemeId": 51898,
+    "pageCodeFolders": {
+      "object": {
+        "mockDataTrades": {
+          "array": []
+        },
+        "bulkActionButton": {
+          "array": []
+        },
+        "pdfFrame": {
+          "array": []
+        },
+        "tradeBeingUpdated": {
+          "array": []
+        },
+        "listView": {
+          "array": []
+        },
+        "listView1": {
+          "array": []
+        },
+        "bulkActionFrame": {
+          "array": []
+        },
+        "addSubtradeFame": {
+          "array": []
+        },
+        "rejectRestrictFrame": {
+          "array": []
+        },
+        "rejectFrame": {
+          "array": []
+        },
+        "subtradeBeingRejected": {
+          "array": []
+        },
+        "restrictFrame": {
+          "array": []
+        },
+        "bulkApproveFrame": {
+          "array": []
+        },
+        "bulkRejectFrame": {
+          "array": []
+        },
+        "bulkRestrictFrame": {
+          "array": []
+        },
+        "serviceProviderID": {
+          "array": []
+        },
+        "getTradeAndEquipment": {
+          "array": []
+        },
+        "putUpdateTradeStatus": {
+          "array": []
+        },
+        "updateTradeStatusData": {
+          "array": []
+        },
+        "updatedStatus": {
+          "array": []
+        },
+        "updatedRow": {
+          "array": []
+        },
+        "updatedTradesTransformer": {
+          "array": []
+        },
+        "getSubtrades": {
+          "array": []
+        },
+        "tradeId": {
+          "array": []
+        },
+        "subtradeSelect": {
+          "array": []
+        },
+        "postFileUpload": {
+          "array": []
+        },
+        "fileName": {
+          "array": []
+        },
+        "certificateFileName": {
+          "array": []
+        },
+        "licenseFileName": {
+          "array": []
+        },
+        "postFileUploadCertificate": {
+          "array": []
+        },
+        "postFileUploadLicense": {
+          "array": []
+        },
+        "certificateFileIdAfterUpload": {
+          "array": []
+        },
+        "licenseFileIdAfterUpload": {
+          "array": []
+        },
+        "putAddSubtrades": {
+          "array": []
+        },
+        "addSubtradesPayloadTransformer": {
+          "array": []
+        },
+        "subtradeNotes": {
+          "array": []
+        },
+        "certificatePutUrl": {
+          "array": []
+        },
+        "licensePutUrl": {
+          "array": []
+        },
+        "putCertificateQuery": {
+          "array": []
+        },
+        "putLicenseQuery": {
+          "array": []
+        },
+        "approveTradeDirectlyFlag": {
+          "array": []
+        },
+        "directApproveTradeStatus": {
+          "array": []
+        },
+        "tableClearChangeset": {
+          "array": []
+        },
+        "alertQuery": {
+          "array": []
+        },
+        "isAlertVisible": {
+          "array": []
+        },
+        "subtradeIdsOfTrade": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "appThemeName": "Simple",
+    "version": "3.71.0",
+    "experimentalDataTabEnabled": true
+  }
+}

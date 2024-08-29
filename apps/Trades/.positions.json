@@ -1,0 +1,287 @@
+{
+  "bulkActionButton2": {
+    "container": "container3",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 1
+  },
+  "button1": {
+    "rowGroup": "footer",
+    "subcontainer": "bulkApproveFrame",
+    "col": 7,
+    "height": 1,
+    "width": 2
+  },
+  "button10": {
+    "rowGroup": "footer",
+    "subcontainer": "bulkRejectFrame",
+    "col": 7,
+    "height": 1,
+    "width": 2
+  },
+  "button11": {
+    "rowGroup": "footer",
+    "subcontainer": "bulkRejectFrame",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "button12": {
+    "rowGroup": "footer",
+    "subcontainer": "bulkRestrictFrame",
+    "col": 7,
+    "height": 1,
+    "width": 2
+  },
+  "button13": {
+    "rowGroup": "footer",
+    "subcontainer": "bulkRestrictFrame",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "button14": {
+    "container": "container3",
+    "subcontainer": "89217",
+    "row": 1,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "button2": {
+    "rowGroup": "footer",
+    "subcontainer": "bulkApproveFrame",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "button4": {
+    "rowGroup": "footer",
+    "subcontainer": "addSubtradeFame",
+    "col": 7,
+    "height": 1,
+    "width": 2
+  },
+  "button5": {
+    "rowGroup": "footer",
+    "subcontainer": "addSubtradeFame",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "button6": {
+    "rowGroup": "footer",
+    "subcontainer": "restrictFrame",
+    "col": 6,
+    "height": 1
+  },
+  "button7": {
+    "rowGroup": "footer",
+    "subcontainer": "restrictFrame",
+    "col": 9,
+    "height": 1
+  },
+  "button8": {
+    "rowGroup": "footer",
+    "subcontainer": "rejectFrame",
+    "col": 7,
+    "height": 1,
+    "width": 2
+  },
+  "button9": {
+    "rowGroup": "footer",
+    "subcontainer": "rejectFrame",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "container3": {
+    "container": "listViewLegacy1",
+    "height": 3.8,
+    "width": 12
+  },
+  "containerTitle3": {
+    "container": "container3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 8
+  },
+  "fileDropzone1": {
+    "subcontainer": "addSubtradeFame",
+    "row": 0.8,
+    "height": 2.4,
+    "width": 6
+  },
+  "fileDropzone2": {
+    "subcontainer": "addSubtradeFame",
+    "row": 2.2,
+    "col": 6,
+    "height": 2.4,
+    "width": 6
+  },
+  "gridView2": {
+    "container": "container3",
+    "subcontainer": "89217",
+    "height": 1,
+    "width": 12
+  },
+  "keyValue1": {
+    "container": "gridView2",
+    "row": 0.4,
+    "height": 8.6,
+    "width": 11
+  },
+  "link4": {
+    "container": "container3",
+    "subcontainer": "89217",
+    "row": 1,
+    "col": 2,
+    "height": 0.6,
+    "width": 2
+  },
+  "listViewLegacy1": {
+    "container": "moduleContainer",
+    "width": 12
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "pdfFrame",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton2": {
+    "rowGroup": "header",
+    "subcontainer": "bulkApproveFrame",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton3": {
+    "rowGroup": "header",
+    "subcontainer": "addSubtradeFame",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton4": {
+    "rowGroup": "header",
+    "subcontainer": "rejectFrame",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton5": {
+    "rowGroup": "header",
+    "subcontainer": "restrictFrame",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton6": {
+    "rowGroup": "header",
+    "subcontainer": "bulkRejectFrame",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton7": {
+    "rowGroup": "header",
+    "subcontainer": "bulkRestrictFrame",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "bulkApproveFrame",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "addSubtradeFame",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle3": {
+    "rowGroup": "header",
+    "subcontainer": "rejectFrame",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle4": {
+    "rowGroup": "header",
+    "subcontainer": "restrictFrame",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle5": {
+    "rowGroup": "header",
+    "subcontainer": "bulkRejectFrame",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle6": {
+    "rowGroup": "header",
+    "subcontainer": "bulkRestrictFrame",
+    "height": 0.6,
+    "width": 9
+  },
+  "moduleContainer": {
+    "height": 12,
+    "width": 12
+  },
+  "pdf1": {
+    "subcontainer": "pdfFrame",
+    "height": 9,
+    "width": 12
+  },
+  "subtradeNotes": {
+    "subcontainer": "addSubtradeFame",
+    "row": 3.2,
+    "height": 1,
+    "width": 6
+  },
+  "subtradeSelect": {
+    "subcontainer": "addSubtradeFame",
+    "height": 0.2,
+    "width": 4
+  },
+  "table2": {
+    "container": "container3",
+    "subcontainer": "89217",
+    "row": 2.4,
+    "height": 1,
+    "width": 12
+  },
+  "text1": {
+    "subcontainer": "bulkApproveFrame",
+    "height": 0.6,
+    "width": 12
+  },
+  "text2": {
+    "subcontainer": "addSubtradeFame",
+    "row": 0.2,
+    "height": 0.6
+  },
+  "text3": {
+    "subcontainer": "addSubtradeFame",
+    "row": 1.6,
+    "col": 6,
+    "height": 0.6
+  },
+  "text4": {
+    "subcontainer": "bulkRejectFrame",
+    "height": 0.6,
+    "width": 12
+  },
+  "text5": {
+    "subcontainer": "bulkRestrictFrame",
+    "height": 0.6,
+    "width": 12
+  },
+  "textInput3": {
+    "subcontainer": "restrictFrame",
+    "height": 0.2,
+    "width": 7
+  },
+  "textInput4": {
+    "subcontainer": "rejectFrame",
+    "height": 0.2,
+    "width": 7
+  }
+}
