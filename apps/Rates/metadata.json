@@ -1,0 +1,278 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "df848bcf-e762-4a12-93c6-b6e58d2012f2",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "mockDataRates": {
+          "array": []
+        },
+        "mockDataProjectionsTable": {
+          "array": []
+        },
+        "mockDataOriginalRates": {
+          "array": []
+        },
+        "mockDataEditedRates": {
+          "array": []
+        },
+        "mockDataPartnerships": {
+          "array": []
+        },
+        "mockDataFlatRates": {
+          "array": []
+        },
+        "getAlignmentRates": {
+          "array": []
+        },
+        "ratesData": {
+          "array": []
+        },
+        "putAlignmentRates": {
+          "array": []
+        },
+        "projectionsData": {
+          "array": []
+        },
+        "bulkEditType": {
+          "array": []
+        },
+        "uneditedRatesTable": {
+          "array": []
+        },
+        "partnershipsTable": {
+          "array": []
+        },
+        "perJobFlatRatesTable": {
+          "array": []
+        },
+        "hourlyTripRatesTable": {
+          "array": []
+        },
+        "uneditedRatesModalTable": {
+          "array": []
+        },
+        "uneditedRatesModalTable2": {
+          "array": []
+        },
+        "putEditRateLogic": {
+          "array": []
+        },
+        "editRateLogicDataTransformer": {
+          "array": []
+        },
+        "hourlyRateModal": {
+          "array": []
+        },
+        "tripFeeModal": {
+          "array": []
+        },
+        "uneditedRatesTable2": {
+          "array": []
+        },
+        "partnershipsModalTable": {
+          "array": []
+        },
+        "perJobFlatRatesModalTable": {
+          "array": []
+        },
+        "hourlyTripRatesModalTable": {
+          "array": []
+        },
+        "percentageModal": {
+          "array": []
+        },
+        "flatRateModal": {
+          "array": []
+        },
+        "noteModal": {
+          "array": []
+        },
+        "hourlyModal": {
+          "array": []
+        },
+        "tripModal": {
+          "array": []
+        },
+        "addFlatRateContainer": {
+          "array": []
+        },
+        "addNewRateLogicSelect": {
+          "array": []
+        },
+        "addPartnershipContainer": {
+          "array": []
+        },
+        "addHourlyContainer": {
+          "array": []
+        },
+        "putAddRateLogic": {
+          "array": []
+        },
+        "editRateLogicPayloadTransformer": {
+          "array": []
+        },
+        "addRateLogicPayloadTransformer": {
+          "array": []
+        },
+        "addRateLogicRatesTable": {
+          "array": []
+        },
+        "addRateLogicFlatRateCentsInput": {
+          "array": []
+        },
+        "addRateLogicFlatRateNotesInput": {
+          "array": []
+        },
+        "addRateLogicPartnershipPercentInput": {
+          "array": []
+        },
+        "addRateLogicHourlyInput": {
+          "array": []
+        },
+        "addRateLogicTripInput": {
+          "array": []
+        },
+        "putUpdateAlignmentRateStatus": {
+          "array": []
+        },
+        "editOriginalRates": {
+          "array": []
+        },
+        "rateBeingEditedData": {
+          "array": []
+        },
+        "updateAlignmentRate": {
+          "array": []
+        },
+        "updateAlignmentRateStatusPayload": {
+          "array": []
+        },
+        "singleEditType": {
+          "array": []
+        },
+        "editPartnershipRates": {
+          "array": []
+        },
+        "editFlatRates": {
+          "array": []
+        },
+        "editEditedRates": {
+          "array": []
+        },
+        "bulkEditRates": {
+          "array": []
+        },
+        "newRateLogic": {
+          "array": []
+        },
+        "editRateHourlyInput": {
+          "array": []
+        },
+        "editRateTripInput": {
+          "array": []
+        },
+        "editRatePercentageInput": {
+          "array": []
+        },
+        "editFlatRateInput": {
+          "array": []
+        },
+        "editFlatRateNoteInput": {
+          "array": []
+        },
+        "editRateEditedHourlyInput": {
+          "array": []
+        },
+        "editRateEditedTripFeeInput": {
+          "array": []
+        },
+        "editAlignmentRatesPayloadTransformer": {
+          "array": []
+        },
+        "workOrderTypesCheckboxGroup": {
+          "array": []
+        },
+        "locationTypesCheckboxGroup": {
+          "array": []
+        },
+        "restrictionsCheckboxGroup": {
+          "array": []
+        },
+        "interestedInPartnership": {
+          "array": []
+        },
+        "updateAlignmentRateStatusPayloadTransformer": {
+          "array": []
+        },
+        "statusUpdateFromTable": {
+          "array": []
+        },
+        "projectionTypeSelect": {
+          "array": []
+        },
+        "projectionsTableDataTransformer": {
+          "array": []
+        },
+        "mockAllTrades": {
+          "array": []
+        },
+        "originalRatesTableData": {
+          "array": []
+        },
+        "editedRatesTableData": {
+          "array": []
+        },
+        "partnershipsTableData": {
+          "array": []
+        },
+        "flatRatesTableData": {
+          "array": []
+        },
+        "allTradesTableData": {
+          "array": []
+        },
+        "projectionsTableData": {
+          "array": []
+        },
+        "serviceProviderID": {
+          "array": []
+        },
+        "put": {
+          "array": []
+        },
+        "interestedInPartnershipRadioGroup": {
+          "array": []
+        },
+        "afterHoursSwitch": {
+          "array": []
+        },
+        "hourlyRateAfterHours": {
+          "array": []
+        },
+        "tripFeeAfterHours": {
+          "array": []
+        },
+        "afterHoursSwitch2": {
+          "array": []
+        },
+        "editHourlyRateAfterHours": {
+          "array": []
+        },
+        "editTripFeeAfterHours": {
+          "array": []
+        },
+        "afterHoursSwitch3": {
+          "array": []
+        },
+        "afterHoursSwitch4": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.52.1",
+    "experimentalDataTabEnabled": true
+  }
+}

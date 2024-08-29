@@ -1,0 +1,233 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "4a9ca037-9bef-4151-a35b-2a5ce248a23e",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "ser": {
+          "array": []
+        },
+        "service": {
+          "array": []
+        },
+        "serviceProvider": {
+          "array": []
+        },
+        "serviceProviderId": {
+          "array": []
+        },
+        "getSPDetails": {
+          "array": []
+        },
+        "modalRejectSP": {
+          "array": []
+        },
+        "updateStatusToAlignment": {
+          "array": []
+        },
+        "updateStatusToRejected": {
+          "array": []
+        },
+        "isSPApprovable": {
+          "array": []
+        },
+        "getSPDocuments": {
+          "array": []
+        },
+        "modalRequestRevision": {
+          "array": []
+        },
+        "mode": {
+          "array": []
+        },
+        "complianceActionsContainer": {
+          "array": []
+        },
+        "alignmentActionsContainer": {
+          "array": []
+        },
+        "postAlignmentActionsContainer": {
+          "array": []
+        },
+        "getSPPendingResubmit": {
+          "array": []
+        },
+        "transformedResubmits": {
+          "array": []
+        },
+        "AgreggatedResubmits": {
+          "array": []
+        },
+        "agreggatedResubmits": {
+          "array": []
+        },
+        "listResubmits": {
+          "array": []
+        },
+        "listResubmitReasons": {
+          "array": []
+        },
+        "reasonItem": {
+          "array": []
+        },
+        "resubmitItem": {
+          "array": []
+        },
+        "updateStatusToRevision": {
+          "array": []
+        },
+        "sendResubmitEmail": {
+          "array": []
+        },
+        "sendRejectionReview": {
+          "array": []
+        },
+        "getCurrentUser": {
+          "array": []
+        },
+        "getSPPendingDocsResubmit": {
+          "array": []
+        },
+        "modalCancelCall": {
+          "array": []
+        },
+        "updateStatusToCallInProgress": {
+          "array": []
+        },
+        "updateStatusToCallCancelled": {
+          "array": []
+        },
+        "sendCancellationReview": {
+          "array": []
+        },
+        "textAreaReasonCancellation": {
+          "array": []
+        },
+        "textAreaReasonRejection": {
+          "array": []
+        },
+        "updateStatusToRescheduleRequest": {
+          "array": []
+        },
+        "modalReschedule": {
+          "array": []
+        },
+        "sendComplianceApprovalEmailSMS": {
+          "array": []
+        },
+        "modalApproveSP": {
+          "array": []
+        },
+        "textInputCalendlyLink": {
+          "array": []
+        },
+        "displayMode": {
+          "array": []
+        },
+        "sendRescheduleEmail": {
+          "array": []
+        },
+        "sendCancellationEmail": {
+          "array": []
+        },
+        "sendRescheduleEmailSMS": {
+          "array": []
+        },
+        "update": {
+          "array": []
+        },
+        "updateStatus": {
+          "array": []
+        },
+        "updateStatusT": {
+          "array": []
+        },
+        "updateStatusToCompl": {
+          "array": []
+        },
+        "updateStatusToCompliant": {
+          "array": []
+        },
+        "updateSPToCompliant": {
+          "array": []
+        },
+        "is": {
+          "array": []
+        },
+        "isCompl": {
+          "array": []
+        },
+        "isCompliant": {
+          "array": []
+        },
+        "transformerCompliantStatus": {
+          "array": []
+        },
+        "queryUpdateCompliant": {
+          "array": []
+        },
+        "querySPDetailsTrigger": {
+          "array": []
+        },
+        "trig": {
+          "array": []
+        },
+        "triger": {
+          "array": []
+        },
+        "trigger": {
+          "array": []
+        },
+        "triggerer": {
+          "array": []
+        },
+        "spDetails": {
+          "array": []
+        },
+        "spDetailsT": {
+          "array": []
+        },
+        "spDetailsTrigger": {
+          "array": []
+        },
+        "inp": {
+          "array": []
+        },
+        "get": {
+          "array": []
+        },
+        "getS": {
+          "array": []
+        },
+        "getSP": {
+          "array": []
+        },
+        "getSp": {
+          "array": []
+        },
+        "getSpD": {
+          "array": []
+        },
+        "getSpDe": {
+          "array": []
+        },
+        "getSpDetai": {
+          "array": []
+        },
+        "getSpDetails": {
+          "array": []
+        },
+        "modalResendScheduleRequest": {
+          "array": []
+        },
+        "modalResendScheduleRequestText": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.52.1",
+    "experimentalDataTabEnabled": true
+  }
+}

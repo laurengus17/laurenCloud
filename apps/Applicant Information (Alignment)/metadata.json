@@ -1,0 +1,527 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "5557b1de-a95d-4654-bfc7-6a76ae18767d",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "service": {
+          "array": []
+        },
+        "servicePro": {
+          "array": []
+        },
+        "serviceProvid": {
+          "array": []
+        },
+        "serviceProvider": {
+          "array": []
+        },
+        "serviceProviderI": {
+          "array": []
+        },
+        "serviceProviderID": {
+          "array": []
+        },
+        "applicantInformationContainer": {
+          "array": []
+        },
+        "getApplicantInformation": {
+          "array": []
+        },
+        "getApplicantInfo": {
+          "array": []
+        },
+        "applicantInformation": {
+          "array": []
+        },
+        "daysOfWeek": {
+          "array": []
+        },
+        "experienceInput": {
+          "array": []
+        },
+        "workHoursData": {
+          "array": []
+        },
+        "workHoursTest": {
+          "array": []
+        },
+        "buildWorkHoursData": {
+          "array": []
+        },
+        "workHoursMockData": {
+          "array": []
+        },
+        "workHoursTable": {
+          "array": []
+        },
+        "workHoursList": {
+          "array": []
+        },
+        "transformWorkHours": {
+          "array": []
+        },
+        "transformAfterHours": {
+          "array": []
+        },
+        "afterHoursList": {
+          "array": []
+        },
+        "buildWorkHoursTableData": {
+          "array": []
+        },
+        "workHoursTableData": {
+          "array": []
+        },
+        "getBusinessHours": {
+          "array": []
+        },
+        "s": {
+          "array": []
+        },
+        "sp": {
+          "array": []
+        },
+        "spK": {
+          "array": []
+        },
+        "spKey": {
+          "array": []
+        },
+        "businessHoursListView": {
+          "array": []
+        },
+        "businessSchedules": {
+          "array": []
+        },
+        "transformBusinessHours": {
+          "array": []
+        },
+        "transformBusinessAfterHours": {
+          "array": []
+        },
+        "businessInfo": {
+          "array": []
+        },
+        "businessHoursList": {
+          "array": []
+        },
+        "businessAfterHoursList": {
+          "array": []
+        },
+        "businessAfterHoursListView": {
+          "array": []
+        },
+        "mondayLabel": {
+          "array": []
+        },
+        "tuesdayLabel": {
+          "array": []
+        },
+        "wednesdayLabel": {
+          "array": []
+        },
+        "thursdayLabel": {
+          "array": []
+        },
+        "fridayLabel": {
+          "array": []
+        },
+        "saturdayLabel": {
+          "array": []
+        },
+        "sundayLabel": {
+          "array": []
+        },
+        "businessAfterHoursStatus": {
+          "array": []
+        },
+        "editSwitch": {
+          "array": []
+        },
+        "isEditing": {
+          "array": []
+        },
+        "updateApplicantInfo": {
+          "array": []
+        },
+        "formData": {
+          "array": []
+        },
+        "jobExperienceList": {
+          "array": []
+        },
+        "paidExperienceInput": {
+          "array": []
+        },
+        "emailTypeSelect": {
+          "array": []
+        },
+        "emailTypes": {
+          "array": []
+        },
+        "phoneTypes": {
+          "array": []
+        },
+        "phoneTypeSelect": {
+          "array": []
+        },
+        "phoneValueInput": {
+          "array": []
+        },
+        "emailValueInput": {
+          "array": []
+        },
+        "paidExperienceSelect": {
+          "array": []
+        },
+        "emailContainer": {
+          "array": []
+        },
+        "phoneContainer": {
+          "array": []
+        },
+        "contactRelations": {
+          "array": []
+        },
+        "emergencyContactFirstnameInput": {
+          "array": []
+        },
+        "emergencyContactLastnameInput": {
+          "array": []
+        },
+        "emergencyContactPhoneInput": {
+          "array": []
+        },
+        "emergencyContactEmailInput": {
+          "array": []
+        },
+        "emergencyContactRelationSelect": {
+          "array": []
+        },
+        "weekScheduleOld": {
+          "array": []
+        },
+        "workHoursSchedule": {
+          "array": []
+        },
+        "mondayAvailableCheckbox": {
+          "array": []
+        },
+        "tuesdayAvailableCheckbox": {
+          "array": []
+        },
+        "workDayTitle": {
+          "array": []
+        },
+        "workStartTimeTitle": {
+          "array": []
+        },
+        "workEndTimeTitle": {
+          "array": []
+        },
+        "mondayStartInput": {
+          "array": []
+        },
+        "mondayEndInput": {
+          "array": []
+        },
+        "tuesdayStartInput": {
+          "array": []
+        },
+        "tuesdayEndInput": {
+          "array": []
+        },
+        "wednesdayStartInput": {
+          "array": []
+        },
+        "wednesdayEndInput": {
+          "array": []
+        },
+        "thursdayStartInput": {
+          "array": []
+        },
+        "thursdayEndInput": {
+          "array": []
+        },
+        "fridayStartInput": {
+          "array": []
+        },
+        "fridayEndInput": {
+          "array": []
+        },
+        "saturdayStartInput": {
+          "array": []
+        },
+        "saturdayEndInput": {
+          "array": []
+        },
+        "sundayStartInput": {
+          "array": []
+        },
+        "sundayEndInput": {
+          "array": []
+        },
+        "mondayWorkStartInput": {
+          "array": []
+        },
+        "mondayWorkEndInput": {
+          "array": []
+        },
+        "tuesdayWorkStartInput": {
+          "array": []
+        },
+        "tuesdayWorkEndInput": {
+          "array": []
+        },
+        "wednesdayWorkStartInput": {
+          "array": []
+        },
+        "wednesdayWorkEndInput": {
+          "array": []
+        },
+        "thursdayWorkStartInput": {
+          "array": []
+        },
+        "thursdayWorkEndInput": {
+          "array": []
+        },
+        "fridayWorkStartInput": {
+          "array": []
+        },
+        "fridayWorkEndInput": {
+          "array": []
+        },
+        "saturdayWorkStartInput": {
+          "array": []
+        },
+        "saturdayWorkEndInput": {
+          "array": []
+        },
+        "sundayWorkStartInput": {
+          "array": []
+        },
+        "sundayWorkEndInput": {
+          "array": []
+        },
+        "wednesdayAvailableCheckbox": {
+          "array": []
+        },
+        "thursdayAvailableCheckbox": {
+          "array": []
+        },
+        "fridayAvailableCheckbox": {
+          "array": []
+        },
+        "saturdayAvailableCheckbox": {
+          "array": []
+        },
+        "sundayAvailableCheckbox": {
+          "array": []
+        },
+        "mondayWorkAvailableCheckbox": {
+          "array": []
+        },
+        "tuesdayWorkAvailableCheckbox": {
+          "array": []
+        },
+        "wednesdayWorkAvailableCheckbox": {
+          "array": []
+        },
+        "thursdayWorkAvailableCheckbox": {
+          "array": []
+        },
+        "fridayWorkAvailableCheckbox": {
+          "array": []
+        },
+        "saturdayWorkAvailableCheckbox": {
+          "array": []
+        },
+        "sundayWorkAvailableCheckbox": {
+          "array": []
+        },
+        "available24HoursCheckbox": {
+          "array": []
+        },
+        "workAllDaysCheckbox": {
+          "array": []
+        },
+        "workStartTimes": {
+          "array": []
+        },
+        "workEndTimes": {
+          "array": []
+        },
+        "daysAvailability": {
+          "array": []
+        },
+        "workDaysAvailability": {
+          "array": []
+        },
+        "workDaysOptions": {
+          "array": []
+        },
+        "workScheduleOptions": {
+          "array": []
+        },
+        "availableAfterHoursSwitch": {
+          "array": []
+        },
+        "availabilitySchedules": {
+          "array": []
+        },
+        "afterHoursTitle": {
+          "array": []
+        },
+        "workHoursTitle": {
+          "array": []
+        },
+        "mondayAfterAvailableCheckbox": {
+          "array": []
+        },
+        "tuesdayAfterAvailableCheckbox": {
+          "array": []
+        },
+        "wednesdayAfterAvailableCheckbox": {
+          "array": []
+        },
+        "thursdayAfterAvailableCheckbox": {
+          "array": []
+        },
+        "fridayAfterAvailableCheckbox": {
+          "array": []
+        },
+        "saturdayAfterAvailableCheckbox": {
+          "array": []
+        },
+        "sundayAfterAvailableCheckbox": {
+          "array": []
+        },
+        "afterDaysAvailability": {
+          "array": []
+        },
+        "afterAllDaysCheckbox": {
+          "array": []
+        },
+        "afterDayTitle": {
+          "array": []
+        },
+        "afterStartTimeTitle": {
+          "array": []
+        },
+        "afterEndTimeTitle": {
+          "array": []
+        },
+        "afterStartTimes": {
+          "array": []
+        },
+        "afterEndTimes": {
+          "array": []
+        },
+        "mondayAfterStartInput": {
+          "array": []
+        },
+        "tuesdayAfterStartInput": {
+          "array": []
+        },
+        "wednesdayAfterStartInput": {
+          "array": []
+        },
+        "thursdayAfterStartInput": {
+          "array": []
+        },
+        "fridayAfterStartInput": {
+          "array": []
+        },
+        "saturdayAfterStartInput": {
+          "array": []
+        },
+        "sundayAfterStartInput": {
+          "array": []
+        },
+        "mondayAfterEndInput": {
+          "array": []
+        },
+        "tuesdayAfterEndInput": {
+          "array": []
+        },
+        "wednesdayAfterEndInput": {
+          "array": []
+        },
+        "thursdayAfterEndInput": {
+          "array": []
+        },
+        "fridayAfterEndInput": {
+          "array": []
+        },
+        "saturdayAfterEndInput": {
+          "array": []
+        },
+        "sundayAfterEndInput": {
+          "array": []
+        },
+        "afterHoursSchedule": {
+          "array": []
+        },
+        "defaultWorkHours": {
+          "array": []
+        },
+        "defaultAfterHours": {
+          "array": []
+        },
+        "_24HoursSchedule": {
+          "array": []
+        },
+        "defaultDay": {
+          "array": []
+        },
+        "afterAllDaysCheckbox2": {
+          "array": []
+        },
+        "mondayAfterAvailableCheckbox2": {
+          "array": []
+        },
+        "formatPhone": {
+          "array": []
+        },
+        "formattedPhones": {
+          "array": []
+        },
+        "applicantInfoCopy": {
+          "array": []
+        },
+        "phoneValueInputOld": {
+          "array": []
+        },
+        "emergencyContactPhoneInput1": {
+          "array": []
+        },
+        "editToggleButton": {
+          "array": []
+        },
+        "personalInfoContainer": {
+          "array": []
+        },
+        "hasErrors": {
+          "array": []
+        },
+        "errors": {
+          "array": []
+        },
+        "emergencyContactsError": {
+          "array": []
+        },
+        "applicantInfoForm": {
+          "array": []
+        },
+        "originalFormData": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.84.0",
+    "experimentalDataTabEnabled": true
+  }
+}

@@ -1,0 +1,9 @@
+SELECT * 
+FROM PROFILE_EMAILS 
+WHERE PROFILE_ID IN (
+    SELECT ID 
+    FROM PROFILES 
+    WHERE USER_ID = {{TESTuser.value}}
+)
+ORDER BY TYPE DESC
+--urlparams.user_id

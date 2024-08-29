@@ -1,0 +1,66 @@
+{
+  "button1": {
+    "container": "container7",
+    "rowGroup": "header",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "container7": {
+    "container": "moduleContainer",
+    "height": 0.2,
+    "width": 12
+  },
+  "container8": {
+    "container": "moduleContainer",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "container9": {
+    "container": "moduleContainer",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "containerTitle7": {
+    "container": "container7",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 10
+  },
+  "containerTitle8": {
+    "container": "container8",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle9": {
+    "container": "container9",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "moduleContainer": {
+    "height": 2,
+    "width": 12
+  },
+  "table1": {
+    "container": "container7",
+    "subcontainer": "1e6a9",
+    "height": 8,
+    "width": 12
+  },
+  "table2": {
+    "container": "container8",
+    "subcontainer": "cc0ce",
+    "height": 8,
+    "width": 12
+  },
+  "table3": {
+    "container": "container9",
+    "subcontainer": "63244",
+    "height": 8,
+    "width": 12
+  }
+}

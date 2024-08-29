@@ -1,0 +1,41 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "6baf2426-0402-4478-96f2-7abb5d875d9a",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "service": {
+          "array": []
+        },
+        "servicePro": {
+          "array": []
+        },
+        "serviceProvi": {
+          "array": []
+        },
+        "serviceProv": {
+          "array": []
+        },
+        "s": {
+          "array": []
+        },
+        "sercice": {
+          "array": []
+        },
+        "serviceProvider": {
+          "array": []
+        },
+        "serviceProviderI": {
+          "array": []
+        },
+        "serviceProviderId": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.52.1",
+    "experimentalDataTabEnabled": true
+  }
+}

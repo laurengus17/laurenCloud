@@ -1,0 +1,70 @@
+{
+  "avatar2": {
+    "container": "listView2",
+    "height": 0.2,
+    "width": 12
+  },
+  "avatar4": {
+    "container": "listView4",
+    "height": 0.2,
+    "width": 12
+  },
+  "chat1": {
+    "container": "chat_container",
+    "subcontainer": "79b2a",
+    "col": 3,
+    "height": 16,
+    "width": 9
+  },
+  "chat_container": {
+    "container": "moduleContainer",
+    "height": 16,
+    "width": 12
+  },
+  "containerTitle34": {
+    "container": "chat_container",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "listView2": {
+    "container": "tabbedContainer2",
+    "subcontainer": "f6dfe",
+    "height": 12.4,
+    "width": 12
+  },
+  "listView4": {
+    "container": "tabbedContainer2",
+    "subcontainer": "1c660",
+    "height": 12.4,
+    "width": 12
+  },
+  "moduleContainer": {
+    "height": 12,
+    "width": 12
+  },
+  "tabbedContainer2": {
+    "container": "chat_container",
+    "subcontainer": "79b2a",
+    "height": 16
+  },
+  "tabs4": {
+    "container": "tabbedContainer2",
+    "rowGroup": "header",
+    "row": 0.2,
+    "height": 0.8,
+    "width": 12
+  },
+  "textInput100": {
+    "container": "tabbedContainer2",
+    "rowGroup": "header",
+    "height": 0.2,
+    "width": 12
+  },
+  "toggleButton2": {
+    "container": "tabbedContainer2",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  }
+}

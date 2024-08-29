@@ -1,0 +1,275 @@
+{
+  "ApplicantHeadshot_Container2": {
+    "container": "container1",
+    "subcontainer": "a8fc9",
+    "col": 4,
+    "height": 7.8,
+    "width": 4
+  },
+  "ApplicantHeadshot_Text2": {
+    "container": "ApplicantHeadshot_Container2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 11
+  },
+  "ApplicantHeadshot_image2": {
+    "container": "ApplicantHeadshot_Container2",
+    "subcontainer": "621b3",
+    "height": 0.6,
+    "width": 10
+  },
+  "ApplicantWaistUp_Container2": {
+    "container": "container1",
+    "subcontainer": "a8fc9",
+    "height": 7.8,
+    "width": 4
+  },
+  "ApplicantWaistUp_Text2": {
+    "container": "ApplicantWaistUp_Container2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "ApplicantWaistUp_image2": {
+    "container": "ApplicantWaistUp_Container2",
+    "subcontainer": "621b3",
+    "height": 0.6,
+    "width": 12
+  },
+  "backPhoto": {
+    "container": "vehicleBackContainer",
+    "subcontainer": "315ab",
+    "height": 4.8,
+    "width": 12
+  },
+  "buttonGroup1": {
+    "rowGroup": "footer",
+    "subcontainer": "reviewModal",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "collapsibleTitle10": {
+    "container": "uniformCollapsibleContainer",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 8
+  },
+  "collapsibleTitle11": {
+    "container": "vehicleListView",
+    "height": 0.8
+  },
+  "collapsibleTitle12": {
+    "rowGroup": "header",
+    "subcontainer": "reviewModal",
+    "row": 0.2,
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle8": {
+    "container": "vehiclesCollapsibleContainer",
+    "rowGroup": "header",
+    "row": 0.2,
+    "height": 0.8,
+    "width": 6
+  },
+  "collapsibleTitle9": {
+    "container": "spCollapsibleContainer",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle10": {
+    "container": "uniformCollapsibleContainer",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 0.8,
+    "width": 1
+  },
+  "collapsibleToggle9": {
+    "container": "spCollapsibleContainer",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "container1": {
+    "container": "listView1",
+    "height": 1,
+    "width": 12
+  },
+  "containerTitle1": {
+    "container": "container1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "dispatchAddressTextArea": {
+    "container": "uniformCollapsibleContainer",
+    "subcontainer": "42bce",
+    "height": 0.6
+  },
+  "frontPhoto": {
+    "container": "vehicleFrontContainer",
+    "subcontainer": "315ab",
+    "height": 4.8,
+    "width": 12
+  },
+  "leftPhoto": {
+    "container": "vehicleLeftContainer",
+    "subcontainer": "315ab",
+    "height": 4.8,
+    "width": 12
+  },
+  "listView1": {
+    "container": "spCollapsibleContainer",
+    "subcontainer": "42bce",
+    "height": 1,
+    "width": 9
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "reviewModal",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "moduleContainer": {
+    "height": 32.4,
+    "width": 12
+  },
+  "photoBoundingBox": {
+    "subcontainer": "reviewModal",
+    "height": 7,
+    "width": 12
+  },
+  "rightPhoto": {
+    "container": "vehicleRightContainer",
+    "subcontainer": "315ab",
+    "height": 4.8,
+    "width": 12
+  },
+  "saveUniformPreferencesButton": {
+    "container": "uniformCollapsibleContainer",
+    "subcontainer": "42bce",
+    "row": 0.8,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "spCollapsibleContainer": {
+    "container": "moduleContainer",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "uniformClothingSize": {
+    "container": "uniformCollapsibleContainer",
+    "subcontainer": "42bce",
+    "row": 0.2,
+    "col": 7,
+    "height": 0.2,
+    "width": 2
+  },
+  "uniformCollapsibleContainer": {
+    "container": "moduleContainer",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "uniformMultiselect": {
+    "container": "uniformCollapsibleContainer",
+    "subcontainer": "42bce",
+    "row": 0.2,
+    "col": 4,
+    "height": 0.2
+  },
+  "uniformOptinToggle": {
+    "container": "uniformCollapsibleContainer",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.6,
+    "width": 2
+  },
+  "vehicleBackContainer": {
+    "container": "vehicleListView",
+    "row": 1,
+    "col": 3,
+    "height": 1
+  },
+  "vehicleBackTitle": {
+    "container": "vehicleBackContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "vehicleFrontContainer": {
+    "container": "vehicleListView",
+    "row": 1,
+    "height": 1
+  },
+  "vehicleFrontTitle": {
+    "container": "vehicleFrontContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "vehicleLeftContainer": {
+    "container": "vehicleListView",
+    "row": 1,
+    "col": 6,
+    "height": 1
+  },
+  "vehicleLeftTitle": {
+    "container": "vehicleLeftContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "vehicleListView": {
+    "container": "vehiclesCollapsibleContainer",
+    "subcontainer": "0b337",
+    "height": 1,
+    "width": 12
+  },
+  "vehicleRightContainer": {
+    "container": "vehicleListView",
+    "row": 1,
+    "col": 9,
+    "height": 1
+  },
+  "vehicleRightTitle": {
+    "container": "vehicleRightContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "vehicleVINContainer": {
+    "container": "vehicleListView",
+    "row": 7.8,
+    "height": 1
+  },
+  "vehicleVINTitle": {
+    "container": "vehicleVINContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "vehiclesCollapsibleContainer": {
+    "container": "moduleContainer",
+    "height": 1,
+    "width": 12
+  },
+  "vehiclesToggle": {
+    "container": "vehiclesCollapsibleContainer",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "vinPhoto": {
+    "container": "vehicleVINContainer",
+    "subcontainer": "315ab",
+    "height": 4.8,
+    "width": 12
+  }
+}
