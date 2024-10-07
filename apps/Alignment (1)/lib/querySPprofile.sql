@@ -1,0 +1,7 @@
+SELECT * 
+FROM PROFILES
+WHERE ID IN (
+    SELECT ID 
+    FROM PROFILES 
+    WHERE USER_ID = {{TESTuser.value}}
+)

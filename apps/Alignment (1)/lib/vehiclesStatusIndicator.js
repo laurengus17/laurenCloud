@@ -1,0 +1,1 @@
+return {{ !getVehicleTagCount.data || !getSpTagCount.data }} ? false : true

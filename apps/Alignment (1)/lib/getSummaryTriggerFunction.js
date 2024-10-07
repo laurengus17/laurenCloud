@@ -1,0 +1,1 @@
+getSummaryTrigger.setValue(Date.now());
