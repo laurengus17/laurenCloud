@@ -1,0 +1,183 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "5c963a74-4555-11ef-be0c-47d5cb244262",
+  "appTemplate": {
+    "appThemeId": 1,
+    "pageCodeFolders": {
+      "object": {
+        "userId": {
+          "array": []
+        },
+        "getAlignmentSummary": {
+          "array": []
+        },
+        "applicantInfoKeyValue1": {
+          "array": []
+        },
+        "applicantInformationData1": {
+          "array": []
+        },
+        "applicantInformationAdvancedToggle": {
+          "array": []
+        },
+        "applicantInformationData": {
+          "array": []
+        },
+        "tradesData": {
+          "array": []
+        },
+        "tradesMockData": {
+          "array": []
+        },
+        "tradesAdvancedInformationToggle": {
+          "array": []
+        },
+        "coverageData": {
+          "array": []
+        },
+        "alignmentData": {
+          "array": []
+        },
+        "alignmentAdvancedInformationToggle": {
+          "array": []
+        },
+        "tradesStatusIndicator": {
+          "array": []
+        },
+        "mockRatesData": {
+          "array": []
+        },
+        "mockVehiclesData": {
+          "array": []
+        },
+        "mockTradesData": {
+          "array": []
+        },
+        "ratesData": {
+          "array": []
+        },
+        "ratesAdvancedInformationToggle": {
+          "array": []
+        },
+        "getVehiclesSummary": {
+          "array": []
+        },
+        "vehiclesUserId": {
+          "array": []
+        },
+        "vehiclesAndUniformsData": {
+          "array": []
+        },
+        "getVehicleTagCount": {
+          "array": []
+        },
+        "get": {
+          "array": []
+        },
+        "getSPTagCount": {
+          "array": []
+        },
+        "getSpTagCount": {
+          "array": []
+        },
+        "vehicleShortSummary": {
+          "array": []
+        },
+        "vehiclesSummaryTransformer": {
+          "array": []
+        },
+        "isVehiclesSummaryExpanded": {
+          "array": []
+        },
+        "expandedVehicleInfo": {
+          "array": []
+        },
+        "expandedSpImageI": {
+          "array": []
+        },
+        "expandedVehicleTags": {
+          "array": []
+        },
+        "expandedSpTags": {
+          "array": []
+        },
+        "submitButton": {
+          "array": []
+        },
+        "postSummary": {
+          "array": []
+        },
+        "postAlignment": {
+          "array": []
+        },
+        "updateStatusToCompliant": {
+          "array": []
+        },
+        "isSPCompliant": {
+          "array": []
+        },
+        "vehiclesStatusIndicator": {
+          "array": []
+        },
+        "vehicleTagStatus": {
+          "array": []
+        },
+        "ratesStatusIndicator": {
+          "array": []
+        },
+        "ratesWarningContainer": {
+          "array": []
+        },
+        "ratesStatusIndicatorQuery": {
+          "array": []
+        },
+        "ratesStatusIndicatorTransformer": {
+          "array": []
+        },
+        "vehiclesAndUniformsLinkVisible": {
+          "array": []
+        },
+        "alignmentLinkVisible": {
+          "array": []
+        },
+        "coverageModule": {
+          "array": []
+        },
+        "isNotSaved": {
+          "array": []
+        },
+        "shouldShowUnsavedModal": {
+          "array": []
+        },
+        "continueWithoutSavingModal": {
+          "array": []
+        },
+        "unsavedWorkText": {
+          "array": []
+        },
+        "modalCancelButton": {
+          "array": []
+        },
+        "continueWithoutSavingButton": {
+          "array": []
+        },
+        "continueWithoutSavingTitle": {
+          "array": []
+        },
+        "continueWithoutSavingCloseButton": {
+          "array": []
+        },
+        "getSummaryTriggerFunction": {
+          "array": []
+        },
+        "getSummaryTrigger": {
+          "array": []
+        }
+      }
+    },
+    "appThemeName": "ServEngine",
+    "version": "3.72.0",
+    "experimentalDataTabEnabled": true
+  }
+}
