@@ -1,0 +1,11 @@
+<GlobalFunctions>
+  <JavascriptQuery
+    id="query1"
+    notificationDuration={4.5}
+    resourceName="JavascriptQuery"
+    showSuccessToaster={false}
+    workflowActionType={null}
+    workflowBlockUuid={null}
+    workflowRunId={null}
+  />
+</GlobalFunctions>
