@@ -1,0 +1,27 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "6fbadb6e-9212-11ef-8c4a-1bc1f8b30e26",
+  "appTemplate": {
+    "mobileAppSettings": {
+      "object": {
+        "displaySetting": {
+          "object": {
+            "landscapeMode": false,
+            "tabletMode": false
+          }
+        },
+        "mobileOfflineModeBannerMode": "default",
+        "mobileOfflineModeDelaySync": false,
+        "mobileOfflineModeEnabled": false,
+        "mobileMultiscreenV2Enabled": false
+      }
+    },
+    "appThemeId": 118573,
+    "rootScreen": "tabscreen",
+    "isMobileApp": true,
+    "version": "3.109.0",
+    "multiScreenMobileApp": true,
+    "experimentalDataTabEnabled": true
+  }
+}
