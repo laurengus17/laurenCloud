@@ -1,0 +1,1 @@
+SELECT * FROM "salesShippingLoc" WHERE "custID" = {{ CustomerName.selectedItem.id }}

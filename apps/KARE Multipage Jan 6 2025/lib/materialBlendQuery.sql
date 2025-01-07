@@ -1,0 +1,1 @@
+select * from dbo.blends_master_live_id;

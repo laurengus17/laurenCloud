@@ -1,0 +1,1 @@
+SELECT * FROM "kareProjects" WHERE "custID" = {{ selectedTableValue.value?.id }}
