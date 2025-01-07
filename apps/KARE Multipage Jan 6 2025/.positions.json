@@ -1,0 +1,3194 @@
+{
+  "BagLength": {
+    "container": "container1",
+    "subcontainer": "46500",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "BagWidth": {
+    "container": "container1",
+    "subcontainer": "46500",
+    "height": 0.2,
+    "width": 12
+  },
+  "Boxspecify": {
+    "container": "tabbedContainer5",
+    "subcontainer": "b03e7",
+    "row": 1.8,
+    "col": 4,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "COC_COA": {
+    "container": "tabbedContainer5",
+    "subcontainer": "3aa44",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 15,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "CreateUserForm1": {
+    "subcontainer": "newProjectModal",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "CustomerName": {
+    "container": "form7",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "FinishedRollTarget": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "GraphicfileDropzone1": {
+    "container": "tabbedContainer5",
+    "subcontainer": "910b1",
+    "row": 0.2,
+    "height": 2.4,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 29,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "Laminated": {
+    "container": "tabbedContainer5",
+    "subcontainer": "8939c",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "PurchaseUnitofMeasure": {
+    "container": "tabbedContainer5",
+    "subcontainer": "8939c",
+    "row": 1,
+    "height": 0.2,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "RFQEnteredBy": {
+    "container": "form7",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "RollTargetMaximum": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "RollTargetMinimum": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "RollstockConstruction": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "RollstockRepeat": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "RollstockWidth": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "height": 0.2,
+    "width": 12
+  },
+  "SubmissionTimeStamp": {
+    "container": "form7",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "TargetOpacity": {
+    "container": "tabbedContainer5",
+    "subcontainer": "18c7c",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 33,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "WhiteOpacity": {
+    "container": "tabbedContainer5",
+    "subcontainer": "910b1",
+    "row": 2.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 19,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "account_name": {
+    "container": "form1",
+    "height": 1,
+    "width": 12
+  },
+  "active_project_year": {
+    "container": "CreateUserForm1",
+    "row": 2.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "active_project_year2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 4
+  },
+  "address": {
+    "container": "form1",
+    "row": 3.6,
+    "height": 1,
+    "width": 12
+  },
+  "address2": {
+    "container": "form1",
+    "row": 4.6,
+    "height": 1,
+    "width": 12
+  },
+  "adminUserSelect": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "01f1a",
+    "row": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "approved": {
+    "container": "form1",
+    "row": 7.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "bagsPerWicket": {
+    "container": "container1",
+    "subcontainer": "46500",
+    "row": 2.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "barrierRequirement": {
+    "container": "tabbedContainer5",
+    "subcontainer": "18c7c",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 25,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "barrierRequirementDetails": {
+    "container": "tabbedContainer5",
+    "subcontainer": "18c7c",
+    "row": 2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 21,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "bidNewOld": {
+    "container": "form7",
+    "row": 3.4,
+    "col": 8,
+    "height": 0.2
+  },
+  "boxes": {
+    "container": "tabbedContainer5",
+    "subcontainer": "b03e7",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 13,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button1": {
+    "row": 7.4,
+    "col": 4,
+    "height": 1,
+    "width": 4
+  },
+  "button10": {
+    "container": "form7",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 2
+  },
+  "button11": {
+    "rowGroup": "footer",
+    "subcontainer": "existingProjects",
+    "col": 4,
+    "height": 1,
+    "width": 4
+  },
+  "button12": {
+    "container": "container3",
+    "subcontainer": "85b35",
+    "col": 10,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button13": {
+    "container": "form1",
+    "row": 2.6,
+    "col": 4,
+    "height": 1,
+    "width": 4
+  },
+  "button14": {
+    "container": "tabbedContainer5",
+    "subcontainer": "8939c",
+    "row": 0.6,
+    "col": 10,
+    "height": 1,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button15": {
+    "container": "tabbedContainer5",
+    "subcontainer": "3c7dd",
+    "row": 0.2,
+    "col": 1,
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button2": {
+    "rowGroup": "footer",
+    "subcontainer": "viewEditProjectModal",
+    "height": 1,
+    "width": 4
+  },
+  "button3": {
+    "rowGroup": "footer",
+    "subcontainer": "viewEditProjectModal",
+    "col": 9,
+    "height": 1
+  },
+  "button4": {
+    "row": 1.2,
+    "height": 1,
+    "width": 2
+  },
+  "button5": {
+    "container": "tabbedContainer4",
+    "subcontainer": "0a896",
+    "row": 9,
+    "height": 1,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button6": {
+    "container": "form2",
+    "rowGroup": "footer",
+    "row": 0.2,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "button7": {
+    "col": 2,
+    "height": 1,
+    "width": 2
+  },
+  "button8": {
+    "rowGroup": "footer",
+    "subcontainer": "modalFrame8",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "button9": {
+    "container": "form7",
+    "rowGroup": "footer",
+    "col": 2,
+    "height": 1,
+    "width": 2
+  },
+  "buttonGroup1": {
+    "subcontainer": "modalFrame1",
+    "height": 1,
+    "width": 12
+  },
+  "buttonGroup2": {
+    "rowGroup": "footer",
+    "subcontainer": "modalFrame5",
+    "col": 4,
+    "height": 0.8,
+    "width": 4
+  },
+  "cActive": {
+    "container": "form3",
+    "row": 8.4,
+    "col": 4,
+    "height": 0.6
+  },
+  "cAddress": {
+    "container": "form3",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 9
+  },
+  "cAddress2": {
+    "container": "form4",
+    "row": 2,
+    "height": 0.2,
+    "width": 9
+  },
+  "cCustomerVlbs": {
+    "container": "CreateUserForm1",
+    "row": 3.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "cCustomerVlbs2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.6,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "cEmail": {
+    "container": "form3",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 9
+  },
+  "cEmail2": {
+    "container": "form4",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 9
+  },
+  "cNote": {
+    "container": "form3",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "cNote2": {
+    "container": "form4",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "chart1": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "d2f06",
+    "height": 15.6,
+    "width": 12
+  },
+  "checkbox1": {
+    "container": "form7",
+    "row": 2.8,
+    "col": 8,
+    "height": 0.6
+  },
+  "city": {
+    "container": "form1",
+    "row": 5.6,
+    "height": 1,
+    "width": 12
+  },
+  "collapsibleContainer1": {
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer3": {
+    "col": 6,
+    "height": 7.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer5": {
+    "row": 8.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer6": {
+    "row": 1,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer7": {
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleTitle1": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 11
+  },
+  "collapsibleTitle3": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 539.26171875,
+        "height": 32
+      }
+    }
+  },
+  "collapsibleTitle5": {
+    "container": "collapsibleContainer5",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle6": {
+    "container": "collapsibleContainer6",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle7": {
+    "container": "collapsibleContainer7",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle1": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "subcontainer": "03013",
+    "col": 11,
+    "height": 0.8,
+    "width": 1
+  },
+  "collapsibleToggle3": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 0.8,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 179.75390625,
+        "height": 32
+      }
+    }
+  },
+  "collapsibleToggle5": {
+    "container": "collapsibleContainer5",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle6": {
+    "container": "collapsibleContainer6",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle7": {
+    "container": "collapsibleContainer7",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "color": {
+    "container": "tabbedContainer5",
+    "subcontainer": "18c7c",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 20,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "compExistCust": {
+    "container": "form5",
+    "row": 6,
+    "height": 1,
+    "width": 12
+  },
+  "competitor": {
+    "container": "form7",
+    "row": 3,
+    "height": 0.2,
+    "width": 4
+  },
+  "construction": {
+    "container": "tabbedContainer5",
+    "subcontainer": "18c7c",
+    "row": 1,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 28,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "contactName": {
+    "container": "form3",
+    "height": 0.2,
+    "width": 4
+  },
+  "contactName2": {
+    "container": "form4",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 4
+  },
+  "container1": {
+    "container": "tabbedContainer5",
+    "subcontainer": "4647d",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 36,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container2": {
+    "container": "tabbedContainer5",
+    "subcontainer": "4647d",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 37,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container3": {
+    "row": 7.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container5": {
+    "subcontainer": "activitySummaryF",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle1": {
+    "container": "container1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle2": {
+    "container": "container2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle3": {
+    "container": "container3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "corePlugsRequirement": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 2.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "coreSize": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "csr": {
+    "container": "form1",
+    "row": 8.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "currentSup": {
+    "container": "form5",
+    "row": 5,
+    "height": 1,
+    "width": 12
+  },
+  "customerSampleType": {
+    "container": "tabbedContainer5",
+    "subcontainer": "910b1",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 18,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "customer_name": {
+    "container": "CreateUserForm1",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 4
+  },
+  "customer_name2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "dataTable2": {
+    "container": "tabbedContainer2",
+    "subcontainer": "e6d31",
+    "height": 18.8,
+    "width": 12
+  },
+  "dataTable3": {
+    "container": "tabbedContainer2",
+    "subcontainer": "aaa79",
+    "height": 11.6,
+    "width": 12
+  },
+  "dataTable4": {
+    "container": "tabbedContainer2",
+    "subcontainer": "0ad6a",
+    "height": 11.6,
+    "width": 12
+  },
+  "dataTable5": {
+    "container": "tabbedContainer2",
+    "subcontainer": "2b0cc",
+    "height": 11.6,
+    "width": 12
+  },
+  "dataTable6": {
+    "container": "tabbedContainer2",
+    "subcontainer": "0f88e",
+    "height": 11.6,
+    "width": 12
+  },
+  "dataTable7": {
+    "container": "tabbedContainer2",
+    "subcontainer": "d174c",
+    "height": 11.6,
+    "width": 12
+  },
+  "dateRange1": {
+    "container": "container5",
+    "subcontainer": "85b35",
+    "row": 21.6,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "date_on_file": {
+    "container": "form1",
+    "row": 8,
+    "height": 0.2,
+    "width": 12
+  },
+  "editAccountname": {
+    "container": "form2",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "editAddress": {
+    "container": "form2",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "editAddress2": {
+    "container": "form2",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "editApproved": {
+    "container": "form2",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "editCity": {
+    "container": "form2",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "editCsr": {
+    "container": "form2",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "editDOF": {
+    "container": "form2",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "editID": {
+    "container": "form2",
+    "height": 0.2,
+    "width": 12
+  },
+  "editLO": {
+    "container": "form2",
+    "row": 19.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "editSegment": {
+    "container": "form2",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "editState": {
+    "container": "form2",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "editStatus": {
+    "container": "form2",
+    "row": 19.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "editType": {
+    "container": "form2",
+    "row": 20,
+    "height": 0.2,
+    "width": 12
+  },
+  "editTypeH": {
+    "container": "form2",
+    "row": 19.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "editZip": {
+    "container": "form2",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "editsls": {
+    "container": "form2",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "email": {
+    "subcontainer": "modalFrame8",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 8
+  },
+  "estVol": {
+    "container": "form7",
+    "row": 2.6,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "existingItem": {
+    "container": "form7",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 4
+  },
+  "fileInput1": {
+    "container": "tabbedContainer5",
+    "subcontainer": "d348e",
+    "row": 0.2,
+    "col": 5,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "flip": {
+    "container": "container1",
+    "subcontainer": "46500",
+    "row": 0.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "form1": {
+    "subcontainer": "modalFrame6",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "form2": {
+    "container": "tabbedContainer4",
+    "subcontainer": "ab62f",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "form3": {
+    "subcontainer": "modalFrame3",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "form4": {
+    "subcontainer": "modalFrame4",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "form5": {
+    "container": "tabbedContainer4",
+    "subcontainer": "65c0d",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "form6": {
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "form7": {
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "form8": {
+    "subcontainer": "modalFrame11",
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formButton1": {
+    "rowGroup": "footer",
+    "subcontainer": "modalFrame6",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton10": {
+    "container": "form8",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton2": {
+    "container": "CreateUserForm1",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton3": {
+    "container": "updateProjectForm",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton4": {
+    "container": "noteForm",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton5": {
+    "container": "form5",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton6": {
+    "container": "form3",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton7": {
+    "container": "form4",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton8": {
+    "container": "form6",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton9": {
+    "container": "form7",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formTitle1": {
+    "container": "form3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle2": {
+    "container": "form4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle3": {
+    "container": "form5",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle5": {
+    "container": "CreateUserForm1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle6": {
+    "container": "stageStatusForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle7": {
+    "container": "form6",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle8": {
+    "container": "form8",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "fsReason": {
+    "container": "stageStatusForm",
+    "row": 0.2,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "funnel_stage": {
+    "container": "CreateUserForm1",
+    "row": 3,
+    "height": 0.2,
+    "width": 4
+  },
+  "funnel_stage2": {
+    "container": "stageStatusForm",
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "gauge": {
+    "container": "tabbedContainer5",
+    "subcontainer": "18c7c",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 30,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "generalNotes": {
+    "container": "tabbedContainer5",
+    "subcontainer": "910b1",
+    "row": 3.8,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 31,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group1": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "03013",
+    "height": 3.8,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group2": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "03013",
+    "row": 3.8,
+    "height": 3.8,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group3": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "03013",
+    "row": 8,
+    "height": 3.8,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group4": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "03013",
+    "col": 6,
+    "height": 3.8,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group5": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "03013",
+    "row": 3.8,
+    "col": 6,
+    "height": 3.8,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group6": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "03013",
+    "row": 7.6,
+    "col": 6,
+    "height": 3.8,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group7": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "03013",
+    "row": 11.4,
+    "col": 6,
+    "height": 3.8,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "gusset": {
+    "container": "container1",
+    "subcontainer": "46500",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "id": {
+    "container": "form1",
+    "row": 1,
+    "height": 1,
+    "width": 12
+  },
+  "image1": {
+    "rowGroup": "header",
+    "subcontainer": "newProjectModal",
+    "row": 0.2,
+    "height": 3,
+    "width": 1
+  },
+  "itemName": {
+    "container": "form7",
+    "row": 2.4,
+    "col": 7,
+    "height": 0.2,
+    "width": 5
+  },
+  "itemNumber": {
+    "container": "form7",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 5
+  },
+  "kare_group": {
+    "container": "CreateUserForm1",
+    "height": 0.2,
+    "width": 4
+  },
+  "kare_group2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "height": 0.2,
+    "width": 4
+  },
+  "keyValue1": {
+    "row": 1.2,
+    "col": 3,
+    "height": 8.6,
+    "width": 7
+  },
+  "keyValue2": {
+    "subcontainer": "modalFrame9",
+    "height": 8.6,
+    "width": 12
+  },
+  "keyValue3": {
+    "subcontainer": "modalFrame10",
+    "height": 8.6,
+    "width": 12
+  },
+  "keyValue4": {
+    "container": "tabbedContainer1",
+    "subcontainer": "04506",
+    "height": 8.6,
+    "width": 12
+  },
+  "keyValue5": {
+    "subcontainer": "projectModal",
+    "height": 8.6,
+    "width": 11
+  },
+  "kpainP": {
+    "container": "form5",
+    "row": 4,
+    "height": 1,
+    "width": 12
+  },
+  "lip": {
+    "container": "container1",
+    "subcontainer": "46500",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "listView1": {
+    "container": "tabbedContainer5",
+    "subcontainer": "8939c",
+    "row": 1.6,
+    "col": 6,
+    "height": 1,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "loadMethod": {
+    "container": "tabbedContainer5",
+    "subcontainer": "4647d",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 17,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "mainProductT": {
+    "container": "CreateUserForm1",
+    "row": 3.6,
+    "height": 0.2,
+    "width": 4
+  },
+  "mainProductT2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.4,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "market": {
+    "container": "CreateUserForm1",
+    "row": 3.4,
+    "height": 0.2,
+    "width": 4
+  },
+  "market2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.4,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "materialBlend": {
+    "container": "tabbedContainer5",
+    "subcontainer": "18c7c",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 23,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "maxSplicesPerRoll": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 2.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "newProjectModal",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "modalCloseButton10": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame4",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton11": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame5",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton12": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame7",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton13": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame8",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton14": {
+    "rowGroup": "header",
+    "subcontainer": "existingProjects",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton15": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame9",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton16": {
+    "rowGroup": "header",
+    "subcontainer": "activitySummaryF",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton17": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame10",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton18": {
+    "rowGroup": "header",
+    "subcontainer": "projectModal",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton19": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame11",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton2": {
+    "rowGroup": "header",
+    "subcontainer": "viewEditProjectModal",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton3": {
+    "rowGroup": "header",
+    "subcontainer": "AddNotesModal",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton4": {
+    "rowGroup": "header",
+    "subcontainer": "notesModal",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton5": {
+    "rowGroup": "header",
+    "subcontainer": "updateModal",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton6": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton7": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame6",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton8": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame2",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton9": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame3",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "viewEditProjectModal",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle10": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame7",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle11": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame8",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle12": {
+    "rowGroup": "header",
+    "subcontainer": "existingProjects",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle13": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame9",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle14": {
+    "rowGroup": "header",
+    "subcontainer": "activitySummaryF",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle15": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame10",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle16": {
+    "rowGroup": "header",
+    "subcontainer": "projectModal",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle17": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame11",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "AddNotesModal",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle3": {
+    "rowGroup": "header",
+    "subcontainer": "notesModal",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle4": {
+    "rowGroup": "header",
+    "subcontainer": "updateModal",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle5": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame5",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle6": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame6",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle7": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame2",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle8": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame3",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle9": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame4",
+    "height": 0.6,
+    "width": 9
+  },
+  "multiselect1": {
+    "container": "form6",
+    "height": 0.2,
+    "width": 2
+  },
+  "multiselect2": {
+    "container": "container3",
+    "subcontainer": "85b35",
+    "height": 0.2,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "multiselect3": {
+    "container": "container3",
+    "subcontainer": "85b35",
+    "col": 2,
+    "height": 0.2,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "multiselect4": {
+    "container": "tabbedContainer5",
+    "subcontainer": "3c7dd",
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigation": {
+    "subcontainer": "header",
+    "height": 1.8,
+    "width": 12
+  },
+  "navigation3": {
+    "subcontainer": "header2",
+    "height": 1.8,
+    "width": 12
+  },
+  "navigation4": {
+    "subcontainer": "header3",
+    "height": 1.8,
+    "width": 12
+  },
+  "navigation5": {
+    "subcontainer": "header4",
+    "height": 1.8,
+    "width": 12
+  },
+  "ncCustomer": {
+    "container": "form4",
+    "height": 0.2,
+    "width": 4
+  },
+  "newBid": {
+    "container": "form7",
+    "row": 3.6,
+    "col": 8,
+    "height": 0.2
+  },
+  "noteForm": {
+    "subcontainer": "AddNotesModal",
+    "width": 12
+  },
+  "noteType": {
+    "container": "noteForm",
+    "height": 0.2,
+    "width": 4
+  },
+  "numberInput10": {
+    "container": "group4",
+    "subcontainer": "85b35",
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "numberInput11": {
+    "container": "group5",
+    "subcontainer": "85b35",
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "numberInput12": {
+    "container": "group6",
+    "subcontainer": "85b35",
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "numberInput13": {
+    "container": "group7",
+    "subcontainer": "85b35",
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "numberInput2": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "col": 3,
+    "height": 0.2,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 119.8359375,
+        "height": 40
+      }
+    }
+  },
+  "numberInput3": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "row": 0.2,
+    "col": 3,
+    "height": 0.2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 179.75390625,
+        "height": 40
+      }
+    }
+  },
+  "numberInput4": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "row": 0.4,
+    "col": 3,
+    "height": 0.2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 179.75390625,
+        "height": 40
+      }
+    }
+  },
+  "numberInput5": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "col": 8,
+    "height": 0.2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 179.75390625,
+        "height": 40
+      }
+    }
+  },
+  "numberInput6": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "row": 1.6,
+    "col": 8,
+    "height": 0.2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 179.75390625,
+        "height": 40
+      }
+    }
+  },
+  "numberInput7": {
+    "container": "group1",
+    "subcontainer": "85b35",
+    "col": 8,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 13,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "numberInput8": {
+    "container": "group2",
+    "subcontainer": "85b35",
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "numberInput9": {
+    "container": "group3",
+    "subcontainer": "85b35",
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "numberOfColors": {
+    "container": "tabbedContainer5",
+    "subcontainer": "910b1",
+    "row": 3.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 26,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "numberOfSidesPrinted": {
+    "container": "tabbedContainer5",
+    "subcontainer": "910b1",
+    "row": 3,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 27,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "open_new_opportunity_quote": {
+    "container": "CreateUserForm1",
+    "row": 4.8,
+    "height": 0.2,
+    "width": 4
+  },
+  "open_new_opportunity_quote2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.8,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "phoneNumberA": {
+    "container": "form3",
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "phoneNumberA2": {
+    "container": "form4",
+    "row": 1.6,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "phoneNumberB": {
+    "container": "form3",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 4
+  },
+  "phoneNumberB2": {
+    "container": "form4",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 4
+  },
+  "polyWrap": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 1.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "ppiStrgth": {
+    "container": "form5",
+    "row": 2,
+    "height": 1,
+    "width": 12
+  },
+  "ppiwknss": {
+    "container": "form5",
+    "row": 3,
+    "height": 1,
+    "width": 12
+  },
+  "printType": {
+    "container": "tabbedContainer5",
+    "subcontainer": "8939c",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "printType2": {
+    "container": "tabbedContainer5",
+    "subcontainer": "910b1",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 24,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "productType": {
+    "container": "tabbedContainer5",
+    "subcontainer": "8939c",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "progressBar1": {
+    "subcontainer": "modalFrame7",
+    "height": 0.4,
+    "width": 12
+  },
+  "projectID": {
+    "container": "noteForm",
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "project_desc": {
+    "container": "CreateUserForm1",
+    "row": 5,
+    "height": 0.2,
+    "width": 12
+  },
+  "project_desc2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "project_name": {
+    "container": "CreateUserForm1",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "project_name2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 4
+  },
+  "project_start_year": {
+    "container": "CreateUserForm1",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "project_start_year2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.2,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "putUpType": {
+    "container": "container1",
+    "subcontainer": "46500",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "quantInput": {
+    "container": "tabbedContainer5",
+    "subcontainer": "8939c",
+    "row": 0.6,
+    "col": 6,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "rangeSlider1": {
+    "container": "container3",
+    "subcontainer": "85b35",
+    "col": 6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "rchc": {
+    "container": "form5",
+    "height": 1,
+    "width": 12
+  },
+  "reasonforQuote": {
+    "container": "form7",
+    "row": 2.8,
+    "height": 0.2,
+    "width": 4
+  },
+  "rollTargetMeasurement": {
+    "container": "container2",
+    "subcontainer": "46500",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "salesID": {
+    "container": "CreateUserForm1",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "salesID2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "searchFilter": {
+    "container": "container3",
+    "subcontainer": "85b35",
+    "col": 4,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "searchFilter2": {
+    "col": 4,
+    "height": 1
+  },
+  "secondWebAttached": {
+    "container": "container1",
+    "subcontainer": "46500",
+    "row": 1.4,
+    "height": 0.6,
+    "width": 12
+  },
+  "segment": {
+    "container": "form1",
+    "row": 8.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "select1": {
+    "container": "form6",
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "select2": {
+    "container": "tabbedContainer5",
+    "subcontainer": "3c7dd",
+    "col": 8,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 38,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "select4": {
+    "container": "tabbedContainer5",
+    "subcontainer": "3c7dd",
+    "row": 1.8,
+    "col": 8,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 39,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "select5": {
+    "container": "tabbedContainer5",
+    "subcontainer": "3c7dd",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 40,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "select6": {
+    "container": "tabbedContainer5",
+    "subcontainer": "3aa44",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "select8": {
+    "container": "form7",
+    "row": 3.8,
+    "col": 8,
+    "height": 0.2
+  },
+  "skids": {
+    "container": "tabbedContainer5",
+    "subcontainer": "b03e7",
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 12,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "skidsspecify": {
+    "container": "tabbedContainer5",
+    "subcontainer": "b03e7",
+    "col": 4,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 14,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "sls_id": {
+    "container": "form1",
+    "row": 8.6,
+    "height": 1,
+    "width": 12
+  },
+  "stageStatusButton": {
+    "container": "stageStatusForm",
+    "row": 1.2,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "stageStatusForm": {
+    "container": "tabbedContainer1",
+    "subcontainer": "eef05",
+    "height": 0.2,
+    "width": 12
+  },
+  "state": {
+    "container": "form1",
+    "row": 6.6,
+    "height": 1,
+    "width": 12
+  },
+  "status": {
+    "container": "CreateUserForm1",
+    "row": 3.2,
+    "height": 0.2,
+    "width": 4
+  },
+  "status2": {
+    "container": "stageStatusForm",
+    "height": 0.2,
+    "width": 4
+  },
+  "status3": {
+    "container": "form1",
+    "row": 9.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "statusReason": {
+    "container": "stageStatusForm",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 4
+  },
+  "stratFit": {
+    "container": "form5",
+    "row": 1,
+    "height": 1,
+    "width": 12
+  },
+  "switch1": {
+    "container": "tabbedContainer4",
+    "subcontainer": "0a896",
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "switch2": {
+    "container": "form6",
+    "row": 0.6,
+    "col": 2,
+    "height": 0.6,
+    "width": 2
+  },
+  "switch3": {
+    "container": "form7",
+    "row": 1,
+    "height": 0.6,
+    "width": 2
+  },
+  "switch4": {
+    "container": "form7",
+    "row": 1.6,
+    "height": 0.6,
+    "width": 2
+  },
+  "tabbedContainer1": {
+    "subcontainer": "viewEditProjectModal",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainer2": {
+    "container": "container3",
+    "subcontainer": "85b35",
+    "row": 1,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainer3": {
+    "row": 0.2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainer4": {
+    "subcontainer": "modalFrame2",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainer5": {
+    "container": "form7",
+    "row": 4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table10": {
+    "subcontainer": "modalFrame5",
+    "row": 0.6,
+    "height": 8,
+    "width": 11
+  },
+  "table11": {
+    "row": 2.2,
+    "height": 13.8,
+    "width": 12
+  },
+  "table13": {
+    "subcontainer": "existingProjects",
+    "height": 8,
+    "width": 12
+  },
+  "table15": {
+    "container": "container5",
+    "subcontainer": "85b35",
+    "height": 21.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table16": {
+    "container": "tabbedContainer1",
+    "subcontainer": "84c08",
+    "height": 8,
+    "width": 12
+  },
+  "table17": {
+    "container": "tabbedContainer4",
+    "subcontainer": "ca46f",
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table18": {
+    "container": "collapsibleContainer7",
+    "rowGroup": "header",
+    "subcontainer": "d0b2f",
+    "row": 0.8,
+    "height": 8,
+    "width": 12
+  },
+  "table2": {
+    "container": "tabbedContainer3",
+    "subcontainer": "c3e96",
+    "height": 14.4,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table3": {
+    "container": "tabbedContainer3",
+    "subcontainer": "3f527",
+    "height": 16.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table4": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "01f1a",
+    "height": 8,
+    "width": 12
+  },
+  "table5": {
+    "container": "tabbedContainer1",
+    "subcontainer": "e1a34",
+    "height": 8,
+    "width": 12
+  },
+  "table6": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ffcdb",
+    "height": 8,
+    "width": 12
+  },
+  "table8": {
+    "container": "tabbedContainer2",
+    "subcontainer": "ad351",
+    "height": 16,
+    "width": 12
+  },
+  "table9": {
+    "container": "tabbedContainer4",
+    "subcontainer": "0a896",
+    "row": 1,
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabs1": {
+    "container": "tabbedContainer1",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 12
+  },
+  "tabs2": {
+    "container": "tabbedContainer2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "tabs3": {
+    "container": "tabbedContainer3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabs4": {
+    "container": "tabbedContainer4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "tabs5": {
+    "container": "tabbedContainer5",
+    "rowGroup": "header",
+    "subcontainer": "3c7dd",
+    "height": 0.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 49,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "targAdditionalABags": {
+    "container": "CreateUserForm1",
+    "row": 4.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "targAdditionalABags2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 4
+  },
+  "targAdditionalAlbs": {
+    "container": "CreateUserForm1",
+    "row": 4,
+    "height": 0.2,
+    "width": 12
+  },
+  "targAdditionalAlbs2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.6,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "targAdditionalLandscapebags": {
+    "container": "CreateUserForm1",
+    "row": 4.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "targAdditionalLandscapebags2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 4
+  },
+  "targAdditionalprintImpUnits": {
+    "container": "CreateUserForm1",
+    "row": 4.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "targAdditionalprintImpUnits2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.8,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "territory": {
+    "container": "CreateUserForm1",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "territory2": {
+    "container": "updateProjectForm",
+    "rowGroup": "header",
+    "row": 0.2,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "text1": {
+    "row": 0.2,
+    "height": 0.6,
+    "width": 2
+  },
+  "text10": {
+    "container": "group7",
+    "subcontainer": "85b35",
+    "height": 0.6,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text19": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 179.75390625,
+        "height": 40
+      }
+    }
+  },
+  "text20": {
+    "subcontainer": "notesModal",
+    "height": 0.6,
+    "width": 11
+  },
+  "text21": {
+    "subcontainer": "updateModal",
+    "height": 0.6,
+    "width": 6
+  },
+  "text22": {
+    "subcontainer": "updateModal",
+    "col": 6,
+    "height": 0.6,
+    "width": 6
+  },
+  "text23": {
+    "subcontainer": "updateModal",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "text24": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "row": 0.6,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 179.75390625,
+        "height": 32
+      }
+    }
+  },
+  "text25": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "row": 1.2,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 179.75390625,
+        "height": 32
+      }
+    }
+  },
+  "text26": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "col": 6,
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 119.8359375,
+        "height": 32
+      }
+    }
+  },
+  "text27": {
+    "type": "stack",
+    "container": "collapsibleContainer3",
+    "subcontainer": "03013",
+    "row": 1.8,
+    "col": 6,
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 119.8359375,
+        "height": 32
+      }
+    }
+  },
+  "text28": {
+    "subcontainer": "modalFrame8",
+    "height": 0.6,
+    "width": 12
+  },
+  "text29": {
+    "container": "form1",
+    "row": 2,
+    "height": 0.6,
+    "width": 12
+  },
+  "text3": {
+    "container": "group1",
+    "subcontainer": "85b35",
+    "height": 0.6,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text5": {
+    "container": "group2",
+    "subcontainer": "85b35",
+    "row": 0.4,
+    "height": 0.6,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text6": {
+    "container": "group3",
+    "subcontainer": "85b35",
+    "row": 0.4,
+    "height": 0.6,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text7": {
+    "container": "group6",
+    "subcontainer": "85b35",
+    "height": 0.6,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text8": {
+    "container": "group5",
+    "subcontainer": "85b35",
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text9": {
+    "container": "group4",
+    "subcontainer": "85b35",
+    "height": 0.6,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textArea1": {
+    "container": "tabbedContainer5",
+    "subcontainer": "d348e",
+    "height": 1,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 16,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textArea2": {
+    "container": "form8",
+    "height": 1,
+    "width": 12
+  },
+  "textArea3": {
+    "container": "form8",
+    "row": 1,
+    "height": 1,
+    "width": 12
+  },
+  "textArea4": {
+    "container": "form8",
+    "row": 2,
+    "height": 1,
+    "width": 12
+  },
+  "textArea5": {
+    "container": "form8",
+    "row": 4,
+    "height": 1,
+    "width": 12
+  },
+  "textArea6": {
+    "container": "form8",
+    "row": 5,
+    "height": 1,
+    "width": 12
+  },
+  "textArea7": {
+    "container": "form8",
+    "row": 3,
+    "height": 1,
+    "width": 12
+  },
+  "textAreaNotes": {
+    "container": "noteForm",
+    "row": 0.2,
+    "height": 1,
+    "width": 12
+  },
+  "textInput2": {
+    "container": "listView1",
+    "height": 0.2,
+    "width": 12
+  },
+  "title": {
+    "container": "form7",
+    "height": 0.2,
+    "width": 12
+  },
+  "title2": {
+    "container": "tabbedContainer5",
+    "subcontainer": "8939c",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 32,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "title3": {
+    "container": "tabbedContainer5",
+    "subcontainer": "18c7c",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 34,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "titleA": {
+    "container": "form3",
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "titleA2": {
+    "container": "form4",
+    "row": 1.6,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "totalLineColors": {
+    "container": "tabbedContainer5",
+    "subcontainer": "910b1",
+    "row": 3.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 22,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "totalProcessColors": {
+    "container": "tabbedContainer5",
+    "subcontainer": "910b1",
+    "row": 3.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 35,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "ty_ue": {
+    "container": "form1",
+    "row": 9.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "updateProjectForm": {
+    "container": "tabbedContainer1",
+    "subcontainer": "400ca",
+    "height": 1,
+    "width": 12
+  },
+  "youSure": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "height": 0.6,
+    "width": 9
+  },
+  "zip": {
+    "container": "form1",
+    "row": 7.6,
+    "height": 1,
+    "width": 12
+  },
+  "zipper": {
+    "container": "container1",
+    "subcontainer": "46500",
+    "row": 2,
+    "height": 0.6,
+    "width": 12
+  }
+}
