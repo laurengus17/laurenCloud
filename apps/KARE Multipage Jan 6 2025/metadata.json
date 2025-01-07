@@ -1,0 +1,58 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "bcc8a788-cd13-11ef-8149-ef8123f737b5",
+  "appTemplate": {
+    "appMaxWidth": "1560px",
+    "appThemeId": "custom",
+    "inAppRetoolPillAppearance": "HIDE_MENU",
+    "experimentalFeatures": {
+      "object": {
+        "sourceControlTemplateDehydration": false
+      }
+    },
+    "pageCodeFolders": {
+      "object": {
+        "defaultPage": {
+          "array": []
+        },
+        "page1": {
+          "array": []
+        },
+        "CustDash": {
+          "array": []
+        },
+        "Kare": {
+          "array": []
+        },
+        "OrderTrendAnalysis": {
+          "array": []
+        },
+        "QuoteRequest": {
+          "array": []
+        }
+      }
+    },
+    "notificationsSettings": {
+      "object": {
+        "globalQueryShowFailureToast": true,
+        "globalQueryShowSuccessToast": false,
+        "globalQueryToastDuration": 4.5
+      }
+    },
+    "rootScreen": "Kare",
+    "appTesting": {
+      "object": {
+        "tests": {
+          "object": {}
+        },
+        "testSuites": {
+          "array": []
+        }
+      }
+    },
+    "version": "3.131.0",
+    "responsiveLayoutDisabled": true,
+    "experimentalDataTabEnabled": true
+  }
+}

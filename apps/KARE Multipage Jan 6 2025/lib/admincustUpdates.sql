@@ -1,0 +1,1 @@
+select * from {{ formatDataAsArray(Cust2?.data) }} WHERE acknowledged = false

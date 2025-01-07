@@ -1,0 +1,1 @@
+select * from "salesBids" where "custID" = {{ CustomerName.selectedItem.id }}

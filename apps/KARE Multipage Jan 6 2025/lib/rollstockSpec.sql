@@ -1,0 +1,1 @@
+select * from specs_rollstock where "customer" = {{ CustomerName.selectedItem.id }}

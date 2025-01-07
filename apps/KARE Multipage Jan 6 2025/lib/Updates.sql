@@ -1,0 +1,1 @@
+select * from "kareUpdates" WHERE "projectID" = {{ selected.value.id }} 

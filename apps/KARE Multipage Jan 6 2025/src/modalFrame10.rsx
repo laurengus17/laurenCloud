@@ -1,0 +1,305 @@
+<ModalFrame
+  id="modalFrame10"
+  footerPadding="8px 12px"
+  headerPadding="8px 12px"
+  hidden={true}
+  hideOnEscape={true}
+  isHiddenOnMobile={true}
+  overlayInteraction={true}
+  padding="8px 12px"
+  showHeader={true}
+  showOverlay={true}
+  size="medium"
+  style={{
+    ordered: [{ headerBackground: "secondary" }, { borderRadius: "40px" }],
+  }}
+>
+  <Header>
+    <Text
+      id="modalTitle15"
+      value="### {{ table16.selectedRow.ID }}"
+      verticalAlign="center"
+    />
+    <Button
+      id="modalCloseButton17"
+      ariaLabel="Close"
+      horizontalAlign="right"
+      iconBefore="bold/interface-delete-1"
+      style={{ ordered: [{ border: "transparent" }] }}
+      styleVariant="outline"
+    >
+      <Event
+        event="click"
+        method="setHidden"
+        params={{ ordered: [{ hidden: true }] }}
+        pluginId="modalFrame10"
+        type="widget"
+        waitMs="0"
+        waitType="debounce"
+      />
+    </Button>
+  </Header>
+  <Body>
+    <KeyValue
+      id="keyValue3"
+      data="{{ table16.selectedRow }}"
+      editIcon="bold/interface-edit-pencil"
+      enableSaveActions={true}
+      itemLabelPosition="top"
+      labelWrap={true}
+    >
+      <Property
+        id="ID"
+        editable="false"
+        editableOptions={{}}
+        format="tag"
+        formatOptions={{ automaticColors: true }}
+        hidden="false"
+        label="Id"
+      />
+      <Property
+        id="COUNT"
+        editable="false"
+        editableOptions={{ showStepper: true }}
+        format="decimal"
+        formatOptions={{ showSeparators: true, notation: "standard" }}
+        hidden="true"
+        label="Count"
+      />
+      <Property
+        id="TITLE"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Title"
+      />
+      <Property
+        id="FIRST"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="First"
+      />
+      <Property
+        id="LAST"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Last"
+      />
+      <Property
+        id="ADDRESS1"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Address 1"
+      />
+      <Property
+        id="ADDRESS2"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Address 2"
+      />
+      <Property
+        id="CITY"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="City"
+      />
+      <Property
+        id="STATE"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="State"
+      />
+      <Property
+        id="ZIP"
+        editable="false"
+        editableOptions={{ showStepper: true }}
+        format="decimal"
+        formatOptions={{ showSeparators: false, notation: "standard" }}
+        hidden="false"
+        label="Zip"
+      />
+      <Property
+        id="SLSID"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Slsid"
+      />
+      <Property
+        id="LOC"
+        editable="false"
+        editableOptions={{ showStepper: true }}
+        format="decimal"
+        formatOptions={{ showSeparators: true, notation: "standard" }}
+        hidden="false"
+        label="Loc"
+      />
+      <Property
+        id="PHONE"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Phone"
+      />
+      <Property
+        id="EXTEN"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Exten"
+      />
+      <Property
+        id="CELL"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Cell"
+      />
+      <Property
+        id="EMAIL"
+        editable="false"
+        editableOptions={{}}
+        format="email"
+        formatOptions={{}}
+        hidden="false"
+        label="Email"
+      />
+      <Property
+        id="POSITION"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Position"
+      />
+      <Property
+        id="CUSTLOC"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Custloc"
+      />
+      <Property
+        id="MARKETING"
+        editable="false"
+        editableOptions={{ showStepper: true }}
+        format="decimal"
+        formatOptions={{ showSeparators: true, notation: "standard" }}
+        hidden="false"
+        label="Marketing"
+      />
+      <Property
+        id="PRICE"
+        editable="false"
+        editableOptions={{ showStepper: true }}
+        format="decimal"
+        formatOptions={{ showSeparators: true, notation: "standard" }}
+        hidden="false"
+        label="Price"
+      />
+      <Property
+        id="ONFILE"
+        editable="false"
+        editableOptions={{ showStepper: true }}
+        format="decimal"
+        formatOptions={{ showSeparators: true, notation: "standard" }}
+        hidden="false"
+        label="Onfile"
+      />
+      <Property
+        id="BIRTHDAY"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Birthday"
+      />
+      <Property
+        id="STATUS"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Status"
+      />
+      <Property
+        id="STATUSDATE"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Statusdate"
+      />
+      <Property
+        id="FAX"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Fax"
+      />
+      <Property
+        id="GRAPHICS"
+        editable="false"
+        editableOptions={{ showStepper: true }}
+        format="decimal"
+        formatOptions={{ showSeparators: true, notation: "standard" }}
+        hidden="true"
+        label="Graphics"
+      />
+      <Property
+        id="ACCTPAY"
+        editable="false"
+        editableOptions={{}}
+        format="string"
+        formatOptions={{}}
+        hidden="false"
+        label="Acctpay"
+      />
+      <Property
+        id="id"
+        editable="false"
+        editableOptions={{ showStepper: true }}
+        format="decimal"
+        formatOptions={{ showSeparators: true, notation: "standard" }}
+        hidden="true"
+        label="ID"
+      />
+    </KeyValue>
+  </Body>
+</ModalFrame>
