@@ -5,7 +5,8 @@ resourceName: JavascriptQuery
 template:
   ordered:
     - queryRefreshTime: ''
-    - allowedGroupIds: []
+    - allowedGroupIds:
+        array: []
     - streamResponse: false
     - lastReceivedFromResourceAt: null
     - isFunction: false
@@ -22,24 +23,25 @@ template:
     - runWhenModelUpdates: false
     - workflowRunExecutionType: sync
     - showFailureToaster: true
-    - query: return null
+    - query: return query1.data
     - playgroundQueryUuid: ''
     - playgroundQueryId: null
     - error: null
     - workflowRunBodyType: raw
-    - privateParams: []
+    - privateParams:
+        array: []
     - queryRunOnSelectorUpdate: false
     - runWhenPageLoadsDelay: ''
     - data: null
     - importedQueryInputs:
-        ordered: []
-    - _additionalScope: []
+        object: {}
+    - _additionalScope:
+        array: []
     - isImported: false
     - showSuccessToaster: true
     - cacheKeyTtl: ''
     - requestSentTimestamp: null
     - metadata: null
-    - editorMode: sql
     - queryRunTime: null
     - changesetObject: ''
     - offlineOptimisticResponse: null
@@ -51,43 +53,41 @@ template:
     - rawData: null
     - queryTriggerDelay: '0'
     - resourceTypeOverride: null
-    - watchedParams: []
+    - watchedParams:
+        array: []
     - enableErrorTransformer: false
     - showLatestVersionUpdatedWarning: false
     - timestamp: 0
     - evalType: script
     - importedQueryDefaults:
-        ordered: []
+        object: {}
     - enableTransformer: false
     - showUpdateSetValueDynamicallyToggle: true
     - overrideOrgCacheForUserCache: false
     - runWhenPageLoads: false
     - transformer: return data
-    - events: []
-    - queryTimeout: '120000'
+    - events:
+        array: []
+    - queryTimeout: '10000'
     - workflowId: null
     - requireConfirmation: false
     - queryFailureConditions: ''
     - changesetIsObject: false
     - enableCaching: false
-    - allowedGroups: []
+    - allowedGroups:
+        array: []
     - offlineQueryType: None
     - queryThrottleTime: '750'
     - updateSetValueDynamically: false
     - notificationDuration: ''
-createdAt: 2025-03-03T19:57:13.591Z
+createdAt: 2025-03-03T19:57:04.244Z
 blockData:
-  top: 48
-  left: 480
-  uuid: 94c1bc4b-3c5a-4207-8f48-9d0802611c78
-  options:
-    functionId: 536522e4-db6b-4143-8247-75b5f86dd8fa
-    parameters: {}
+  top: 80
+  left: 976
+  uuid: 45868a62-77a3-4f20-b5df-5c0966b095d4
   pluginId: code1
-  blockType: runFunction
+  blockType: code
   editorType: JavascriptQuery
-  isMinimized: false
   resourceName: JavascriptQuery
-  incomingPorts: []
   incomingOnSuccessEdges:
-    - a22031d1-4f49-47d2-8cd1-7c3e43bd7574
+    - 35ce682a-cdaf-442d-bfe0-affe7eda2eaa
