@@ -1,12 +1,14 @@
-id: code1
+id: function1
 type: datasource
-subtype: JavascriptQuery
-resourceName: JavascriptQuery
+subtype: RESTQuery
+resourceName: REST-WithoutResource
 template:
   ordered:
     - queryRefreshTime: ''
+    - paginationLimit: ''
     - allowedGroupIds: []
     - streamResponse: false
+    - body: ''
     - lastReceivedFromResourceAt: null
     - isFunction: false
     - functionParameters: null
@@ -19,10 +21,13 @@ template:
     - playgroundQuerySaveId: latest
     - workflowParams: null
     - resourceNameOverride: ''
-    - runWhenModelUpdates: false
+    - runWhenModelUpdates: true
+    - paginationPaginationField: ''
     - workflowRunExecutionType: sync
+    - headers: ''
     - showFailureToaster: true
-    - query: return null
+    - paginationEnabled: false
+    - query: null
     - playgroundQueryUuid: ''
     - playgroundQueryId: null
     - error: null
@@ -33,13 +38,12 @@ template:
     - data: null
     - importedQueryInputs:
         ordered: []
-    - _additionalScope: []
     - isImported: false
     - showSuccessToaster: true
     - cacheKeyTtl: ''
     - requestSentTimestamp: null
+    - cookies: ''
     - metadata: null
-    - editorMode: sql
     - queryRunTime: null
     - changesetObject: ''
     - offlineOptimisticResponse: null
@@ -54,40 +58,40 @@ template:
     - watchedParams: []
     - enableErrorTransformer: false
     - showLatestVersionUpdatedWarning: false
+    - paginationDataField: ''
     - timestamp: 0
-    - evalType: script
     - importedQueryDefaults:
         ordered: []
     - enableTransformer: false
     - showUpdateSetValueDynamicallyToggle: true
+    - version: 2
     - overrideOrgCacheForUserCache: false
     - runWhenPageLoads: false
     - transformer: return data
     - events: []
-    - queryTimeout: '120000'
+    - queryTimeout: '10000'
     - workflowId: null
     - requireConfirmation: false
+    - type: GET
     - queryFailureConditions: ''
     - changesetIsObject: false
     - enableCaching: false
     - allowedGroups: []
+    - bodyType: none
     - offlineQueryType: None
     - queryThrottleTime: '750'
     - updateSetValueDynamically: false
     - notificationDuration: ''
-createdAt: 2025-03-03T19:57:13.591Z
+createdAt: 2025-03-03T19:56:54.848Z
 blockData:
-  top: 48
-  left: 480
-  uuid: 94c1bc4b-3c5a-4207-8f48-9d0802611c78
+  top: 40
+  left: 40
+  uuid: 536522e4-db6b-4143-8247-75b5f86dd8fa
   options:
-    functionId: 536522e4-db6b-4143-8247-75b5f86dd8fa
-    parameters: {}
-  pluginId: code1
-  blockType: runFunction
-  editorType: JavascriptQuery
-  isMinimized: false
-  resourceName: JavascriptQuery
-  incomingPorts: []
-  incomingOnSuccessEdges:
-    - a22031d1-4f49-47d2-8cd1-7c3e43bd7574
+    subflowId: f43be42c-a9af-47d6-a052-f225ee7db5ba
+    parameters: []
+  pluginId: function1
+  blockType: function
+  editorType: RESTQuery
+  resourceName: REST-WithoutResource
+  incomingOnSuccessEdges: []
