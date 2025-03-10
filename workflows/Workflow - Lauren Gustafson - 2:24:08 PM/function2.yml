@@ -1,0 +1,97 @@
+id: function2
+type: datasource
+subtype: RESTQuery
+resourceName: REST-WithoutResource
+template:
+  ordered:
+    - queryRefreshTime: ''
+    - paginationLimit: ''
+    - allowedGroupIds: []
+    - streamResponse: false
+    - body: ''
+    - lastReceivedFromResourceAt: null
+    - isFunction: false
+    - functionParameters: null
+    - queryDisabledMessage: ''
+    - servedFromCache: false
+    - offlineUserQueryInputs: ''
+    - functionDescription: null
+    - successMessage: ''
+    - queryDisabled: ''
+    - playgroundQuerySaveId: latest
+    - workflowParams: null
+    - resourceNameOverride: ''
+    - runWhenModelUpdates: true
+    - paginationPaginationField: ''
+    - workflowRunExecutionType: sync
+    - headers: ''
+    - showFailureToaster: true
+    - paginationEnabled: false
+    - query: null
+    - playgroundQueryUuid: ''
+    - playgroundQueryId: null
+    - error: null
+    - workflowRunBodyType: raw
+    - privateParams: []
+    - queryRunOnSelectorUpdate: false
+    - runWhenPageLoadsDelay: ''
+    - data: null
+    - importedQueryInputs:
+        ordered: []
+    - isImported: false
+    - showSuccessToaster: true
+    - cacheKeyTtl: ''
+    - requestSentTimestamp: null
+    - cookies: ''
+    - metadata: null
+    - queryRunTime: null
+    - changesetObject: ''
+    - offlineOptimisticResponse: null
+    - errorTransformer: return data.error
+    - finished: null
+    - confirmationMessage: null
+    - isFetching: false
+    - changeset: ''
+    - rawData: null
+    - queryTriggerDelay: '0'
+    - resourceTypeOverride: null
+    - watchedParams: []
+    - enableErrorTransformer: false
+    - showLatestVersionUpdatedWarning: false
+    - paginationDataField: ''
+    - timestamp: 0
+    - importedQueryDefaults:
+        ordered: []
+    - enableTransformer: false
+    - showUpdateSetValueDynamicallyToggle: true
+    - version: 2
+    - overrideOrgCacheForUserCache: false
+    - runWhenPageLoads: false
+    - transformer: return data
+    - events: []
+    - queryTimeout: '10000'
+    - workflowId: null
+    - requireConfirmation: false
+    - type: GET
+    - queryFailureConditions: ''
+    - changesetIsObject: false
+    - enableCaching: false
+    - allowedGroups: []
+    - bodyType: none
+    - offlineQueryType: None
+    - queryThrottleTime: '750'
+    - updateSetValueDynamically: false
+    - notificationDuration: ''
+createdAt: 2025-03-10T18:25:47.974Z
+blockData:
+  top: 40
+  left: 40
+  uuid: de922fb7-60f9-4c03-9bec-c598a75bc735
+  options:
+    subflowId: 93b38e7a-21d7-4e5e-aada-e3d697a5a5de
+    parameters: []
+  pluginId: function2
+  blockType: function
+  editorType: RESTQuery
+  resourceName: REST-WithoutResource
+  incomingOnSuccessEdges: []
