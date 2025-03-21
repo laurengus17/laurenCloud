@@ -1,0 +1,1 @@
+if(SP.data != null && CS.data != null && Join.isFetching == false){Join.trigger()}

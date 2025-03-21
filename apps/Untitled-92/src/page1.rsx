@@ -318,5 +318,6 @@
       </ToolbarButton>
     </Table>
     <Text id="text1" verticalAlign="center" />
+    <Text id="text1" value="{{ JSON.stringify(url) }}" verticalAlign="center" />
   </Frame>
 </Screen>

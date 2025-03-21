@@ -1,0 +1,148 @@
+id: query2
+type: datasource
+subtype: RetoolAIQuery
+resourceName: retool_ai
+resourceDisplayName: retool_ai
+template:
+  ordered:
+    - vectorNamespaceIds:
+        array: []
+    - vectorDynamicUrls: ''
+    - queryRefreshTime: ''
+    - allowedGroupIds:
+        array: []
+    - vectorActionNamespaceDynamicModeEnabled: false
+    - vectorCreateAndFetchDynamicModeEnabled: false
+    - streamResponse: true
+    - imageClassifierDynamicLabels: ''
+    - lastReceivedFromResourceAt: null
+    - vectorSemanticSearchString: ''
+    - isFunction: false
+    - functionParameters: null
+    - queryDisabledMessage: ''
+    - customTemperature: '1'
+    - servedFromCache: false
+    - offlineUserQueryInputs: ''
+    - functionDescription: null
+    - successMessage: ''
+    - queryDisabled: ''
+    - playgroundQuerySaveId: latest
+    - workflowParams: null
+    - resourceNameOverride: ''
+    - runWhenModelUpdates: false
+    - workflowRunExecutionType: sync
+    - showFailureToaster: true
+    - vectorUrls:
+        array: []
+    - customSystemMessage: ''
+    - textExtractorDynamicLabels: ''
+    - imageExtractorLabels:
+        array: []
+    - query: ''
+    - playgroundQueryUuid: ''
+    - imageExtractorDynamicModeEnabled: false
+    - playgroundQueryId: null
+    - error: null
+    - workflowRunBodyType: raw
+    - privateParams:
+        array: []
+    - model: gpt-4o-mini
+    - queryRunOnSelectorUpdate: false
+    - runWhenPageLoadsDelay: ''
+    - data: null
+    - defaultModelInitialized: true
+    - providerId: retoolAIBuiltIn::openAI
+    - textClassifierLabels:
+        array: []
+    - textClassifierDynamicModeEnabled: false
+    - importedQueryInputs:
+        object: {}
+    - instruction: ''
+    - isImported: false
+    - imageModel: dall-e-3
+    - showSuccessToaster: true
+    - fileUseDynamicSource: false
+    - cacheKeyTtl: ''
+    - requestSentTimestamp: null
+    - metadata:
+        object: {}
+    - textClassifierDynamicLabels: ''
+    - queryRunTime: null
+    - changesetObject: ''
+    - offlineOptimisticResponse: null
+    - errorTransformer: return data.error
+    - finished: null
+    - embeddingModel: text-embedding-ada-002
+    - confirmationMessage: null
+    - isFetching: false
+    - changeset: ''
+    - chatInput: ''
+    - rawData: null
+    - vectorNamespaceId: ''
+    - queryTriggerDelay: '0'
+    - resourceTypeOverride: null
+    - watchedParams:
+        array: []
+    - vectorDynamicNamespaces: ''
+    - enableErrorTransformer: false
+    - imageExtractorDynamicLabels: ''
+    - multimodalModel: gpt-4o
+    - showLatestVersionUpdatedWarning: false
+    - vectorActionDynamicNamespace: ''
+    - dynamicModelName: ''
+    - timestamp: 0
+    - evalType: script
+    - textExtractorDynamicModeEnabled: false
+    - action: textGeneration
+    - textExtractorLabels:
+        array: []
+    - importedQueryDefaults:
+        object: {}
+    - enableTransformer: false
+    - showUpdateSetValueDynamicallyToggle: true
+    - fileSource: ''
+    - filterLabels:
+        array: []
+    - dynamicModelEnabled: false
+    - systemMessage: You are a helpful assistant
+    - overrideOrgCacheForUserCache: false
+    - runWhenPageLoads: false
+    - content: ''
+    - transformer: return data
+    - events:
+        array: []
+    - vectorAction: upsertDocument
+    - queryTimeout: '120000'
+    - workflowId: null
+    - vectorNamespacesDynamicModeEnabled: false
+    - requireConfirmation: false
+    - queryFailureConditions: ''
+    - source: ''
+    - imageClassifierLabels:
+        array: []
+    - imageClassifierDynamicModeEnabled: false
+    - changesetIsObject: false
+    - vectorModeEnabled: false
+    - vectorNamespaceIdsFilters:
+        array: []
+    - providerName: openAI
+    - enableCaching: false
+    - allowedGroups:
+        array: []
+    - chatHistory: ''
+    - imageContent: ''
+    - offlineQueryType: None
+    - queryThrottleTime: '750'
+    - updateSetValueDynamically: false
+    - notificationDuration: ''
+createdAt: 2025-03-10T18:27:16.232Z
+blockData:
+  top: 0
+  left: 1040
+  uuid: c3be768a-6c5e-482a-ab95-a7726a93bd16
+  pluginId: query2
+  blockType: default
+  editorType: RetoolAIQuery
+  resourceName: retool_ai
+  incomingOnSuccessEdges:
+    - 9f5d0534-cd74-46af-8df7-46c59e36156a

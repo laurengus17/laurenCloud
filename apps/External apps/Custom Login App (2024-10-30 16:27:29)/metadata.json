@@ -1,0 +1,17 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "6877a8ec-96fd-11ef-8022-3bbc7bfe2258",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "login": {
+          "array": []
+        }
+      }
+    },
+    "shortlink": "loginpage",
+    "version": "3.112.0",
+    "experimentalDataTabEnabled": true
+  }
+}
